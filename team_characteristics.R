@@ -52,5 +52,5 @@ goog.1<-dat.merge
 library(googleVis)
 plot(gvisMotionChart(goog.1, idvar = "w.name", timevar = "week"))
 
-write.csv(goog.1, file= "goog.1.csv")
+#write.csv(goog.1, file= "goog.1.csv")
 
