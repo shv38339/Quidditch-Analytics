@@ -45,7 +45,12 @@ dat.merge$l.pts <- as.numeric(levels(dat.merge$l.pts)[dat.merge$l.pts])
 dat.merge$week <- as.numeric(levels(dat.merge$week)[dat.merge$week])
 str(dat.merge); head(dat.merge)
 
+goog.1<-dat.merge
+
 ###***###
 #install.packages("googleVis")
-#library(googleVis)
-plot(gvisMotionChart(dat.merge, idvar = "w.name", timevar = "week"))
+library(googleVis)
+plot(gvisMotionChart(goog.1, idvar = "w.name", timevar = "week"))
+
+write.csv(goog.1, file= "goog.1.csv")
+
