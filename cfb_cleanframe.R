@@ -163,3 +163,4 @@ dat.ff.1 <- data.frame(week = origin.frame.2$week,
 #did it work?
 
 
+#write.csv(dat.ff.1,file = "dat.ff.1.csv")
