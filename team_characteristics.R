@@ -46,4 +46,6 @@ dat.merge$week <- as.numeric(levels(dat.merge$week)[dat.merge$week])
 str(dat.merge); head(dat.merge)
 
 ###***###
+#install.packages("googleVis")
+#library(googleVis)
 plot(gvisMotionChart(dat.merge, idvar = "w.name", timevar = "week"))
