@@ -52,7 +52,7 @@ dat.merge$l.rank <- as.numeric(dat.merge$l.rank)
 
 str(dat.merge); head(dat.merge)
 
-goog.1<-dat.merge
+goog.1 <- dat.merge
 
 ###***###
 #install.packages("googleVis")
