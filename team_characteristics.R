@@ -43,6 +43,13 @@ dat.merge <- dat.lmerge.order[c(15, 6, 2, 9, 7, 8, 10, 5, 11, 12, 14, 1, 13, 4, 
 dat.merge$w.pts <- as.numeric(levels(dat.merge$w.pts)[dat.merge$w.pts])
 dat.merge$l.pts <- as.numeric(levels(dat.merge$l.pts)[dat.merge$l.pts])
 dat.merge$week <- as.numeric(levels(dat.merge$week)[dat.merge$week])
+
+# let's change w.rank and l.rank to numbers for googleVis to read
+dat.merge$w.rank <- ifelse(dat.merge$w.rank == "Unranked", "26", dat.merge$w.rank)
+dat.merge$w.rank <- as.numeric(dat.merge$w.rank)
+dat.merge$l.rank <- ifelse(dat.merge$l.rank == "Unranked", "26", dat.merge$l.rank)
+dat.merge$l.rank <- as.numeric(dat.merge$l.rank)
+
 str(dat.merge); head(dat.merge)
 
 goog.1<-dat.merge
