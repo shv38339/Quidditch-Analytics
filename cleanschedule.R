@@ -1,11 +1,17 @@
+# This file extracts an online 'quidditch' table of teams, ranks, weeks, points, location, etc.
+# We have attempted to clean, format, and put it in working csv.
+# The names may be confusing, but go through the files line by line and you should be fine.
+# If there is any confusion, please leave comments or email me at:
+# eleetsvalenzuela@gmail.com
+# Don't spam me or I'll seeketh revenge til the end of time
+
 #install pacakges
 library(XML)
 library(stringr)
 library(plyr)
 
 # Emergency Functions -----------------------------------------------------
-rm(list=ls())
-
+#rm(list=ls())
 
 # Data URL --------------------------------------------------------
 
@@ -24,7 +30,7 @@ origin.frame.1 <- origin.frame[c(-77,-150,-219,-280,-335,-391,-447,-504,
                                -563,-620,-678,-740,-798,-818,-820,-823,-829,-842,-847),]
 
 origin.frame.2 <- origin.frame.1[,-1] # Unsure of the fact if I should keep this ## Yep getting rid of it
-
+#this was the 'Notes' column, specifying bowl game locations and neutral game locations
 
 # Column Names ------------------------------------------------------------
 names(origin.frame.2)
@@ -34,7 +40,7 @@ origin.frame.2[1:100,] # just checking in
 
 # Extracted Ranks ------------------------------------------
 
-?gsub # I don't remember this code at all (10/23/14)
+?gsub # I don't remember this code at all
 
 w.rank <- gsub("\\D", "", origin.frame.2$winner)
 w.rank
@@ -134,7 +140,7 @@ dat.ff <- data.frame(week = origin.frame.2$week,
 dim(dat.ff)
 names(dat.ff)
 head(dat.ff) # beautiful...almost. We have an issue with levels in week. 
-View(dat.ff) # Since we changed it to a data.frame, we don't have an issue with week (10/30/14)
+#View(dat.ff) # Since we changed it to a data.frame, we don't have an issue with week (10/30/14)
 
 
 # Debugging factor levels in variable week --------------------------------
@@ -142,15 +148,15 @@ View(dat.ff) # Since we changed it to a data.frame, we don't have an issue with 
 levels(origin.frame.2$week)
 origin.frame.2$week <- ordered(origin.frame.2$week, levels = 1:20)
 levels(origin.frame.2$week)
-View(origin.frame.2)
+#View(origin.frame.2)
 
 # Now, we're going to throw the rest of the variables from the online table back into...
-# ...the data frame and work from it from there. I'm going to have to learn ID #'s ...
-# ...soon to learn how to reference between data frames.
+# ...the data frame and work from it from there.
 
-# I think I'm doing this to add attributes to the network frames.
+# FINALLY, OUR RAW2012 FRAME IS SOMEWHAT CLEAN AND ORGANIZED FROM ITS ORIGINAL HTML OUTPUT
+# It will be named as such:
 
-dat.ff.1 <- data.frame(week = origin.frame.2$week, 
+clean.sched <- data.frame(week = origin.frame.2$week, 
                        w.rank = Winner.Rank, 
                        winner = Final.Winner,
                        w.pts = origin.frame.2$wpts,
@@ -160,7 +166,11 @@ dat.ff.1 <- data.frame(week = origin.frame.2$week,
                        l.pts = origin.frame.2$lpts,
                        stringsAsFactors = FALSE)
 
-#did it work?
+# JC had a great idea of writing it to a csv file in case the website where we received our data ever crashes
+# Also, there is a simple CSV file to download and work wtih rather than running through this entire code.
+# Simply, yet genius.
+
+write.csv(clean.sched, file = "cleanschedule.csv")
 
 
 #write.csv(dat.ff.1,file = "dat.ff.1.csv")
