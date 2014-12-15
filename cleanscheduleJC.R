@@ -83,4 +83,9 @@ result.1<-rbind(winners.1,losers.1)
 
 result<-result.1[order(result.1$game.id),]
 
-write.csv(result, file = "cleanresults.csv")
+#write.csv(result, file = "cleanresults.csv")
+
+library(googleVis)
+#plot(gvisMotionChart(clean.sched5, idvar = "w.name", timevar = "week"))
+plot(gvisMotionChart(result, idvar = "team", timevar = "week"))
+
