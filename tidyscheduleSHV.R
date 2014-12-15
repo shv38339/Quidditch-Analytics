@@ -15,8 +15,8 @@ clean.sched6 <- tbl_df(read.csv("cleanschedule5.csv", stringsAsFactors = F))
 # At first glance, I will probably not need the variables, X, w.id, and l.id. We'll worry about that later.
 
 clean.sched7 <- clean.sched6 %>%
-                  select(-c(X, w.id, l.id), game.id, w.conference, w.rank, w.name, w.abbrvs, w.pts, 
-                                                     l.conference, l.rank, l.name, l.abbrvs, l.pts) %>%
+                  select(-c(X, w.id, l.id), game.id, week, w.conference, w.rank, w.name, w.abbrvs, w.pts, 
+                                                           l.conference, l.rank, l.name, l.abbrvs, l.pts) %>%
                     gather(key, value, w.conference:l.pts) %>% 
                       separate(key, c("outcome", "type")) %>%
                         spread(type, value, convert = TRUE)
