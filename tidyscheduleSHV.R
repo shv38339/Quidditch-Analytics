@@ -12,7 +12,7 @@ ls("package:dplyr")
 
 clean.sched6 <- tbl_df(read.csv("cleanschedule5.csv", stringsAsFactors = F))
 
-# At first glance, I will probably not need the variables, X, w.id, and l.id. We'll worry about that later.
+# At first glance, I will probably not need the variables, X, w.id, and l.id. 
 
 clean.sched7 <- clean.sched6 %>%
                   select(-c(X, w.id, l.id), game.id, week, w.conference, w.rank, w.name, w.abbrvs, w.pts, 
@@ -20,6 +20,11 @@ clean.sched7 <- clean.sched6 %>%
                     gather(key, value, w.conference:l.pts) %>% 
                       separate(key, c("outcome", "type")) %>%
                         spread(type, value, convert = TRUE)
+
+clean.sched7$week <- ifelse(clean.sched7$week > 15, 16, clean.sched7$week) # big oops
+# need to add week 17, which are the final rankings
+
+
 
 
 
