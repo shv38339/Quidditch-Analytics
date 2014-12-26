@@ -170,7 +170,4 @@ clean.sched <- data.frame(week = origin.frame.2$week,
 # Also, there is a simple CSV file to download and work wtih rather than running through this entire code.
 # Simply, yet genius.
 
-write.csv(clean.sched, file = "cleanschedule.csv")
-
-
-#write.csv(dat.ff.1,file = "dat.ff.1.csv")
+# write.csv(clean.sched, file = "cleanschedule.csv")
