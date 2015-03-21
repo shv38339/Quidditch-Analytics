@@ -1,6 +1,7 @@
 library(dplyr) # necessary to read function tbl_df
 library(networkD3)
 
+# download these files from the CSVs folder 
 # cleansched7 <- tbl_df(read.csv("cleansched7.csv", header = T)[-1])
 # teamchr <- tbl_df(read.csv("teamchr.csv", header = TRUE)[-1])
 
