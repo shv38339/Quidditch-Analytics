@@ -37,4 +37,8 @@ Subsetted networks of the following:
 
 *cleanscheduleSANStidy.R* & *cleanscheduleSANStidy.csv* - data frame which Jonathan transformed *cleansched5* into a **tidy** data set WITHOUT USING THE TIDYR PACKAGE. Quite impressive if you ask me. Also note: these files are located in the **fun** folder. 
 
+### Contact Info
+
+**eleetsvalenzuela@gmail.com** & **jichiang@umass.edu**
+
 
