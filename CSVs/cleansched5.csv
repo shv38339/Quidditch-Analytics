@@ -1,0 +1,841 @@
+"","game.id","week","w.id","w.conference","w.name","w.abbrvs","w.rank","w.pts","location","l.pts","l.rank","l.abbrvs","l.name","l.conference","l.id"
+"519",1,1,9,"Pac-12","Arizona State","ASU",26,63,"",6,26,"NOAZ","Northern Arizona","FCS",118
+"190",2,1,15,"Mid-American","Ball State","BALL",26,37,"",26,26,"EMU","Eastern Michigan","Mid-American",43
+"796",3,1,21,"Independent","Brigham Young","BYU",26,30,"",6,26,"WSU","Washington State","Pac-12",194
+"18",4,1,27,"Conference USA","Central Florida","UCF",26,56,"@",14,26,"AKRON","Akron","Mid-American",2
+"620",5,1,28,"Mid-American","Central Michigan","CMU",26,38,"",27,26,"SEMIZZ","Southeast Missouri State","FCS",153
+"370",6,1,37,"Big East","Connecticut","UCONN",26,37,"",0,26,"UMASS","Massachusetts","Mid-American",88
+"257",7,1,44,"FCS","Eastern Washington","EWU",26,20,"@",3,26,"ID","Idaho","Western Athletic",63
+"722",8,1,76,"Mid-American","Kent State","KENT",26,41,"",21,26,"TOW","Towson","FCS",179
+"414",9,1,89,"FCS","McNeese State","MCNST",26,27,"@",21,26,"MTSU","Middle Tennessee State","Sun Belt",95
+"469",10,1,96,"Big Ten","Minnesota","MINN",26,30,"@",27,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"582",11,1,109,"Western Athletic","New Mexico State","NMSU",26,49,"",19,26,"SACRST","Sacramento State","FCS",141
+"760",12,1,148,"Southeastern","South Carolina","SC",9,17,"@",13,26,"VAN","Vanderbilt","Southeastern",186
+"573",13,1,183,"Pac-12","UCLA","UCLA",26,49,"@",24,26,"RICE","Rice","Conference USA",138
+"520",14,1,184,"Pac-12","Utah","UTAH",26,41,"",0,26,"NOCOL","Northern Colorado","FCS",119
+"650",15,1,185,"Western Athletic","Utah State","UTST",26,34,"",3,26,"SUTAH","Southern Utah","FCS",160
+"777",16,1,48,"Sun Belt","Florida Atlantic","FAU",26,7,"",3,26,"WAG","Wagner","FCS",191
+"85",17,1,94,"Big Ten","Michigan State","MSU",13,17,"",13,24,"BST","Boise State","Mountain West",18
+"590",18,1,161,"Pac-12","Stanford","STAN",21,20,"",17,26,"SJSU","San Jose State","Western Athletic",145
+"761",19,1,165,"Big East","Temple","TEM",26,41,"",10,26,"VILL","Villanova","FCS",187
+"508",20,1,166,"Southeastern","Tennessee","TEN",26,35,"",21,26,"NCST","North Carolina State","Atlantic Coast",114
+"268",21,1,1,"Mountain West","Air Force","AF",26,49,"",21,26,"IDST","Idaho State","FCS",64
+"407",22,1,3,"Southeastern","Alabama","BAMA",2,41,"",14,8,"MICH","Michigan","Big Ten",93
+"718",23,1,8,"Pac-12","Arizona","ARI",26,24,"",17,26,"TOL","Toledo","Mid-American",178
+"306",24,1,10,"Southeastern","Arkansas","ARK",10,49,"",24,26,"JVILST","Jacksonville State","FCS",72
+"71",25,1,33,"Atlantic Coast","Clemson","CLEM",14,26,"",19,26,"AUB","Auburn","Southeastern",13
+"149",26,1,36,"Mountain West","Colorado State","COLS",26,22,"",17,26,"COL","Colorado","Pac-12",35
+"217",27,1,39,"Atlantic Coast","Duke","DUKE",26,46,"",26,26,"FIU","Florida International","Sun Belt",49
+"31",28,1,40,"Conference USA","East Carolina","ECU",26,35,"",13,26,"APPST","Appalachian State","FCS",7
+"100",29,1,46,"Southeastern","Florida","UF",23,27,"",14,26,"BG","Bowling Green State","Mid-American",20
+"447",30,1,50,"Atlantic Coast","Florida State","FSU",7,69,"",3,26,"MURR","Murray State","FCS",102
+"801",31,1,52,"Mountain West","Fresno State","FRES",26,37,"",10,26,"WEBST","Weber State","FCS",195
+"107",32,1,55,"Southeastern","Georgia","UGA",6,45,"",23,26,"BUF","Buffalo","Mid-American",22
+"817",33,1,65,"Big Ten","Illinois","IL",26,24,"",7,26,"WMU","Western Michigan","Mid-American",200
+"288",34,1,67,"Big Ten","Indiana","IND",26,24,"",17,26,"INDST","Indiana State","FCS",68
+"522",35,1,69,"Big Ten","Iowa","IOWA",26,18,"@",17,26,"NIU","Northern Illinois","Mid-American",120
+"741",36,1,70,"Big 12","Iowa State","ISU",26,38,"",23,26,"TULSA","Tulsa","Conference USA",182
+"610",37,1,74,"Big 12","Kansas","KU",26,31,"",17,26,"SDKSU","South Dakota State","FCS",151
+"444",38,1,75,"Big 12","Kansas State","KSU",22,51,"",9,26,"MIZZST","Missouri State","FCS",100
+"517",39,1,80,"Southeastern","Louisiana State","LSU",3,41,"",14,26,"NTEX","North Texas","Sun Belt",117
+"335",40,1,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,40,"",0,26,"LAMAR","Lamar","FCS",78
+"825",41,1,87,"Atlantic Coast","Maryland","MARY",26,7,"",6,26,"W&M","William & Mary","FCS",201
+"92",42,1,91,"Atlantic Coast","Miami FL","MIA",26,41,"@",32,26,"BC","Boston College","Atlantic Coast",19
+"124",43,1,97,"Southeastern","Mississippi","OLE",26,49,"",27,26,"C-ARK","Central Arkansas","FCS",26
+"304",44,1,98,"Southeastern","Mississippi State","MISS ST",26,56,"",9,26,"JST","Jackson State","FCS",71
+"621",45,1,99,"Southeastern","Missouri","MIZZ",26,62,"",10,26,"SE LOU","Southeastern Louisiana","FCS",154
+"645",46,1,104,"Big Ten","Nebraska","NEB",17,49,"",20,26,"SO MISS","Southern Mississippi","Conference USA",159
+"114",47,1,105,"Mountain West","Nevada","NEV",26,31,"@",24,26,"CAL","California","Pac-12",24
+"623",48,1,108,"Mountain West","New Mexico","NM",26,66,"",21,26,"STHRN","Southern","FCS",155
+"196",49,1,112,"Atlantic Coast","North Carolina","UNC",26,62,"",0,26,"ELON","Elon","FCS",45
+"658",50,1,122,"Big Ten","Northwestern","NU",26,42,"@",41,26,"SYR","Syracuse","Big East",164
+"448",51,1,125,"Independent","Notre Dame","ND",26,50,"",10,26,"NAVY","Navy","Independent",103
+"551",52,1,126,"Mid-American","Ohio","OHIO",26,24,"@",14,26,"PENN","Penn State","Big Ten",132
+"400",53,1,127,"Big Ten","Ohio State","OSU",18,56,"",10,26,"MIA-O","Miami OH","Mid-American",92
+"710",54,1,128,"Big 12","Oklahoma","OU",4,24,"@",7,26,"UT-EP","Texas-El Paso","Conference USA",176
+"593",55,1,129,"Big 12","Oklahoma State","OKST",19,84,"",0,26,"SAVST","Savannah State","FCS",146
+"51",56,1,130,"Pac-12","Oregon","ORE",5,57,"",34,26,"ARKST","Arkansas State","Sun Belt",11
+"184",57,1,136,"Big Ten","Purdue","PUR",26,48,"",6,26,"EKU","Eastern Kentucky","FCS",42
+"734",58,1,140,"Big East","Rutgers","RUT",26,24,"@",12,26,"TULA","Tulane","Conference USA",181
+"136",59,1,152,"Big East","South Florida","SFU",26,34,"",13,26,"CHATT","Chattanooga","FCS",30
+"248",60,1,156,"Pac-12","Southern California","USC",1,49,"",10,26,"HAW","Hawaii","Mountain West",60
+"383",61,1,168,"FCS","Tennessee-Martin","TNMT",26,20,"@",17,26,"MEM","Memphis","Conference USA",90
+"836",62,1,169,"Big 12","Texas","TEX",15,37,"",17,26,"WYO","Wyoming","Mountain West",204
+"252",63,1,174,"Western Athletic","Texas State","TEXST",26,30,"@",13,26,"HOU","Houston","Conference USA",61
+"529",64,1,175,"Big 12","Texas Tech","TTU",26,44,"",6,26,"NWST","Northwestern State","FCS",124
+"599",65,1,177,"Western Athletic","Texas-San Antonio","UTSA",26,33,"@",31,26,"SOBAMA","South Alabama","Sun Belt",147
+"25",66,1,180,"Sun Belt","Troy","TROY",26,39,"@",29,26,"UAB","Alabama-Birmingham","Conference USA",5
+"577",67,1,188,"Atlantic Coast","Virginia","UVA",26,43,"",19,26,"RICH","Richmond","FCS",139
+"336",68,1,192,"Atlantic Coast","Wake Forest","WAKE",26,20,"",17,26,"LIB","Liberty","FCS",79
+"587",69,1,193,"Pac-12","Washington","WASH",26,21,"",12,26,"SDSU","San Diego State","Mountain West",144
+"360",70,1,196,"Big 12","West Virginia","WV",11,69,"",34,26,"MAR ","Marshall","Conference USA",86
+"73",71,1,199,"Sun Belt","Western Kentucky","WKU",26,49,"",10,26,"PEAY","Austin Peay","FCS",14
+"524",72,1,202,"Big Ten","Wisconsin","WIS",12,26,"",21,26,"UNI","Northern Iowa","FCS",121
+"555",73,1,205,"FCS","Youngstown State","YST",26,31,"@",17,26,"PITT","Pittsburgh","Big East",133
+"635",74,1,16,"Big 12","Baylor","BAY",26,59,"",24,26,"SMU","Southern Methodist","Conference USA",158
+"327",75,1,84,"Big East","Louisville","LOU",23,32,"",14,26,"UK","Kentucky","Southeastern",77
+"233",76,1,190,"Atlantic Coast","Virginia Tech","VT",15,20,"",17,26,"GT","Georgia Tech","Atlantic Coast",58
+"556",77,2,31,"Big East","Cincinnati","CIN",26,34,"",10,26,"PITT","Pittsburgh","Big East",133
+"748",78,2,185,"Western Athletic","Utah State","UTST",26,27,"",20,26,"UTAH","Utah","Pac-12",184
+"813",79,2,3,"Southeastern","Alabama","BAMA",1,35,"",0,26,"WKU","Western Kentucky","Sun Belt",199
+"542",80,2,8,"Pac-12","Arizona","ARI",26,59,"",38,18,"OKST","Oklahoma State","Big 12",129
+"270",81,2,9,"Pac-12","Arizona State","ASU",26,45,"",14,26,"IL","Illinois","Big Ten",65
+"387",82,2,11,"Sun Belt","Arkansas State","ARKST",26,33,"",28,26,"MEM","Memphis","Conference USA",90
+"354",83,2,19,"Atlantic Coast","Boston College","BC",26,34,"",3,26,"MAINE","Maine","FCS",85
+"261",84,2,20,"Mid-American","Bowling Green State","BG",26,21,"",13,26,"ID","Idaho","Western Athletic",63
+"800",85,2,21,"Independent","Brigham Young","BYU",26,45,"",13,26,"WEBST","Weber State","FCS",195
+"445",86,2,22,"Mid-American","Buffalo","BUF",26,56,"",34,26,"MORG","Morgan State","FCS",101
+"649",87,2,24,"Pac-12","California","CAL",26,50,"",31,26,"SUTAH","Southern Utah","FCS",160
+"75",88,2,33,"Atlantic Coast","Clemson","CLEM",12,52,"",27,26,"BALL","Ball State","Mid-American",15
+"682",89,2,46,"Southeastern","Florida","UF",24,20,"@",17,26,"TAMU","Texas A&M","Southeastern",170
+"14",90,2,49,"Sun Belt","Florida International","FIU",26,41,"",38,26,"AKRON","Akron","Mid-American",2
+"592",91,2,50,"Atlantic Coast","Florida State","FSU",6,55,"",0,26,"SAVST","Savannah State","FCS",146
+"441",92,2,55,"Southeastern","Georgia","UGA",7,41,"@",20,26,"MIZZ","Missouri","Southeastern",99
+"562",93,2,58,"Atlantic Coast","Georgia Tech","GT",26,59,"",3,26,"PRESB","Presbyterian","FCS",135
+"189",94,2,66,"FCS","Illinois State","ILST",26,31,"@",14,26,"EMU","Eastern Michigan","Mid-American",43
+"375",95,2,67,"Big Ten","Indiana","IND",26,45,"@",6,26,"UMASS","Massachusetts","Mid-American",88
+"296",96,2,70,"Big 12","Iowa State","ISU",26,9,"@",6,26,"IOWA","Iowa","Big Ten",69
+"393",97,2,75,"Big 12","Kansas State","KSU",21,52,"",13,26,"MIA","Miami FL","Atlantic Coast",91
+"323",98,2,77,"Southeastern","Kentucky","UK",26,47,"",14,26,"KENT","Kent State","Mid-American",76
+"785",99,2,80,"Southeastern","Louisiana State","LSU",3,41,"",3,26,"WASH","Washington","Pac-12",193
+"253",100,2,81,"Western Athletic","Louisiana Tech","LTU",26,56,"@",49,26,"HOU","Houston","Conference USA",61
+"723",101,2,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,37,"@",24,26,"TROY","Troy","Sun Belt",180
+"43",102,2,83,"Sun Belt","Louisiana-Monroe","LA-M",26,34,"@",31,8,"ARK","Arkansas","Southeastern",10
+"443",103,2,84,"Big East","Louisville","LOU",23,35,"",7,26,"MIZZST","Missouri State","FCS",100
+"808",104,2,86,"Conference USA","Marshall","MAR ",26,52,"",24,26,"WCU","Western Carolina","FCS",197
+"662",105,2,87,"Atlantic Coast","Maryland","MARY",26,36,"@",27,26,"TEM","Temple","Big East",165
+"630",106,2,92,"Mid-American","Miami OH","MIA-O",26,30,"",14,26,"SILLN","Southern Illinois","FCS",157
+"1",107,2,93,"Big Ten","Michigan","MICH",19,31,"",25,26,"AF","Air Force","Mountain West",1
+"133",108,2,94,"Big Ten","Michigan State","MSU",11,41,"@",7,26,"CMU","Central Michigan","Mid-American",28
+"201",109,2,95,"Sun Belt","Middle Tennessee State","MTSU",26,31,"",17,26,"FAU","Florida Atlantic","Sun Belt",48
+"474",110,2,96,"Big Ten","Minnesota","MINN",26,44,"",7,26,"NHAMP","New Hampshire","FCS",107
+"705",111,2,97,"Southeastern","Mississippi","OLE",26,28,"",10,26,"UT-EP","Texas-El Paso","Conference USA",176
+"65",112,2,98,"Southeastern","Mississippi State","MISS ST",26,28,"",10,26,"AUB","Auburn","Southeastern",13
+"163",113,2,114,"Atlantic Coast","North Carolina State","NCST",26,10,"@",7,26,"UCONN","Connecticut","Big East",37
+"156",114,2,116,"FCS","North Dakota State","NDKST",26,22,"@",7,26,"COLS","Colorado State","Mountain West",36
+"690",115,2,117,"Sun Belt","North Texas","NTEX",26,34,"",7,26,"TEXSTH","Texas Southern","FCS",173
+"468",116,2,118,"FCS","Northern Arizona","NOAZ",26,17,"@",14,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"676",117,2,120,"Mid-American","Northern Illinois","NIU",26,35,"",7,26,"TNMT","Tennessee-Martin","FCS",168
+"758",118,2,122,"Big Ten","Northwestern","NU",26,23,"",13,26,"VAN","Vanderbilt","Southeastern",186
+"568",119,2,125,"Independent","Notre Dame","ND",22,20,"",17,26,"PUR","Purdue","Big Ten",136
+"486",120,2,126,"Mid-American","Ohio","OHIO",26,51,"",24,26,"NMSU","New Mexico State","Western Athletic",109
+"125",121,2,127,"Big Ten","Ohio State","OSU",14,31,"",16,26,"UCF","Central Florida","Conference USA",27
+"199",122,2,128,"Big 12","Oklahoma","OU",5,69,"",13,26,"F A&M","Florida A&M","FCS",47
+"221",123,2,130,"Pac-12","Oregon","ORE",4,42,"",25,26,"FRES","Fresno State","Mountain West",52
+"831",124,2,131,"Pac-12","Oregon State","ORST",26,10,"",7,13,"WIS","Wisconsin","Big Ten",202
+"313",125,2,138,"Conference USA","Rice","RICE",26,25,"@",24,26,"KU","Kansas","Big 12",74
+"256",126,2,140,"Big East","Rutgers","RUT",26,26,"",0,26,"HOW","Howard","FCS",62
+"148",127,2,141,"FCS","Sacramento State","SACRST",26,30,"@",28,26,"COL","Colorado","Pac-12",35
+"54",128,2,144,"Mountain West","San Diego State","SDSU",26,42,"",7,26,"ARMY","Army","Independent",12
+"123",129,2,145,"Western Athletic","San Jose State","SJSU",26,45,"",13,26,"UC-D","California-Davis","FCS",25
+"495",130,2,147,"Sun Belt","South Alabama","SOBAMA",26,9,"",3,26,"NICHST","Nicholls State","FCS",110
+"180",131,2,148,"Southeastern","South Carolina","SC",9,48,"",10,26,"ECU","East Carolina","Conference USA",40
+"461",132,2,152,"Big East","South Florida","SFU",26,32,"@",31,26,"NEV","Nevada","Mountain West",105
+"660",133,2,156,"Pac-12","Southern California","USC",2,42,"@",29,26,"SYR","Syracuse","Big East",164
+"653",134,2,158,"Conference USA","Southern Methodist","SMU",26,52,"",0,26,"SFAUST","Stephen F. Austin","FCS",162
+"174",135,2,161,"Pac-12","Stanford","STAN",25,50,"",13,26,"DUKE","Duke","Atlantic Coast",39
+"231",136,2,166,"Southeastern","Tennessee","TEN",26,51,"",13,26,"GEORST","Georgia State","FCS",57
+"478",137,2,169,"Big 12","Texas","TEX",17,45,"",0,26,"NM","New Mexico","Mountain West",108
+"239",138,2,172,"Big 12","Texas Christian","TCU",20,56,"",0,26,"GRAMB","Grambling State","FCS",59
+"692",139,2,175,"Big 12","Texas Tech","TTU",26,58,"@",10,26,"TEXST","Texas State","Western Athletic",174
+"683",140,2,177,"Western Athletic","Texas-San Antonio","UTSA",26,27,"",16,26,"T A&M-C","Texas A&M-Commerce","Division II",171
+"838",141,2,178,"Mid-American","Toledo","TOL",26,34,"@",31,26,"WYO","Wyoming","Mountain West",204
+"733",142,2,182,"Conference USA","Tulsa","TULSA",26,45,"",10,26,"TULA","Tulane","Conference USA",181
+"456",143,2,183,"Pac-12","UCLA","UCLA",26,36,"",30,16,"NEB","Nebraska","Big Ten",104
+"549",144,2,188,"Atlantic Coast","Virginia","UVA",26,17,"",16,26,"PENN","Penn State","Big Ten",132
+"72",145,2,190,"Atlantic Coast","Virginia Tech","VT",15,42,"",7,26,"PEAY","Austin Peay","FCS",14
+"500",146,2,192,"Atlantic Coast","Wake Forest","WAKE",26,28,"",27,26,"UNC","North Carolina","Atlantic Coast",112
+"195",147,2,194,"Pac-12","Washington State","WSU",26,24,"",20,26,"EWU","Eastern Washington","FCS",44
+"183",148,2,200,"Mid-American","Western Michigan","WMU",26,52,"",21,26,"EILLN","Eastern Illinois","FCS",41
+"613",149,3,140,"Big East","Rutgers","RUT",26,23,"@",13,26,"SFU","South Florida","Big East",152
+"471",150,3,194,"Pac-12","Washington State","WSU",26,35,"@",27,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"446",151,3,2,"Mid-American","Akron","AKRON",26,66,"",6,26,"MORG","Morgan State","FCS",101
+"49",152,3,3,"Southeastern","Alabama","BAMA",1,52,"@",0,26,"ARK","Arkansas","Southeastern",10
+"608",153,3,8,"Pac-12","Arizona","ARI",24,56,"",0,26,"SCST","South Carolina State","FCS",149
+"349",154,3,13,"Southeastern","Auburn","AUB",26,31,"",28,26,"LA-M","Louisiana-Monroe","Sun Belt",83
+"282",155,3,15,"Mid-American","Ball State","BALL",26,41,"@",39,26,"IND","Indiana","Big Ten",67
+"583",156,3,16,"Big 12","Baylor","BAY",26,48,"",23,26,"SAMH","Sam Houston State","FCS",142
+"401",157,3,18,"Mountain West","Boise State","BST",26,39,"",12,26,"MIA-O","Miami OH","Mid-American",92
+"834",158,3,23,"FCS","Cal Poly","CAL-P",26,24,"@",22,26,"WYO","Wyoming","Mountain West",204
+"214",159,3,27,"Conference USA","Central Florida","UCF",26,33,"",20,26,"FIU","Florida International","Sun Belt",49
+"170",160,3,31,"Big East","Cincinnati","CIN",26,23,"",7,26,"DELST","Delaware State","FCS",38
+"225",161,3,33,"Atlantic Coast","Clemson","CLEM",11,41,"",7,26,"FUR","Furman","FCS",53
+"367",162,3,37,"Big East","Connecticut","UCONN",26,24,"@",21,26,"MARY","Maryland","Atlantic Coast",87
+"503",163,3,39,"Atlantic Coast","Duke","DUKE",26,54,"",17,26,"NCC","North Carolina Central","FCS",113
+"639",164,3,40,"Conference USA","East Carolina","ECU",26,24,"@",14,26,"SO MISS","Southern Mississippi","Conference USA",159
+"673",165,3,46,"Southeastern","Florida","UF",18,37,"@",20,23,"TEN","Tennessee","Southeastern",166
+"779",166,3,50,"Atlantic Coast","Florida State","FSU",5,52,"",0,26,"WAKE","Wake Forest","Atlantic Coast",192
+"144",167,3,52,"Mountain West","Fresno State","FRES",26,69,"",14,26,"COL","Colorado","Pac-12",35
+"202",168,3,55,"Southeastern","Georgia","UGA",7,56,"",20,26,"FAU","Florida Atlantic","Sun Belt",48
+"762",169,3,58,"Atlantic Coast","Georgia Tech","GT",26,56,"",20,26,"UVA","Virginia","Atlantic Coast",188
+"334",170,3,60,"Mountain West","Hawaii","HAW",26,54,"",2,26,"LAMAR","Lamar","FCS",78
+"135",171,3,65,"Big Ten","Illinois","IL",26,44,"",0,26,"CHSOU","Charleston Southern","FCS",29
+"523",172,3,69,"Big Ten","Iowa","IOWA",26,27,"",16,26,"UNI","Northern Iowa","FCS",121
+"810",173,3,70,"Big 12","Iowa State","ISU",26,37,"",3,26,"W ILLN","Western Illinois","FCS",198
+"515",174,3,75,"Big 12","Kansas State","KSU",15,35,"",21,26,"NTEX","North Texas","Sun Belt",117
+"259",175,3,80,"Southeastern","Louisiana State","LSU",3,63,"",14,26,"ID","Idaho","Western Athletic",63
+"576",176,3,81,"Western Athletic","Louisiana Tech","LTU",26,56,"",37,26,"RICE","Rice","Conference USA",138
+"502",177,3,84,"Big East","Louisville","LOU",19,39,"",34,26,"UNC","North Carolina","Atlantic Coast",112
+"83",178,3,91,"Atlantic Coast","Miami FL","MIA",26,38,"",10,26,"BETHCK","Bethune-Cookman","FCS",17
+"377",179,3,93,"Big Ten","Michigan","MICH",17,63,"",13,26,"UMASS","Massachusetts","Mid-American",88
+"384",180,3,95,"Sun Belt","Middle Tennessee State","MTSU",26,48,"@",30,26,"MEM","Memphis","Conference USA",90
+"822",181,3,96,"Big Ten","Minnesota","MINN",26,28,"",23,26,"WMU","Western Michigan","Mid-American",200
+"726",182,3,98,"Southeastern","Mississippi State","MISS ST",26,30,"@",24,26,"TROY","Troy","Sun Belt",180
+"37",183,3,99,"Southeastern","Missouri","MIZZ",26,24,"",20,26,"ASU","Arizona State","Pac-12",9
+"50",184,3,104,"Big Ten","Nebraska","NEB",26,42,"",13,26,"ARKST","Arkansas State","Sun Belt",11
+"530",185,3,105,"Mountain West","Nevada","NEV",26,45,"",34,26,"NWST","Northwestern State","FCS",124
+"604",186,3,114,"Atlantic Coast","North Carolina State","NCST",26,31,"",7,26,"SOBAMA","South Alabama","Sun Belt",147
+"56",187,3,120,"Mid-American","Northern Illinois","NIU",26,41,"@",40,26,"ARMY","Army","Independent",12
+"87",188,3,122,"Big Ten","Northwestern","NU",26,22,"",13,26,"BC","Boston College","Atlantic Coast",19
+"412",189,3,125,"Independent","Notre Dame","ND",20,20,"@",3,10,"MSU","Michigan State","Big Ten",94
+"355",190,3,126,"Mid-American","Ohio","OHIO",26,27,"@",24,26,"MAR ","Marshall","Conference USA",86
+"115",191,3,127,"Big Ten","Ohio State","OSU",12,35,"",28,26,"CAL","California","Pac-12",24
+"343",192,3,129,"Big 12","Oklahoma State","OKST",26,65,"",24,26,"LA-L","Louisiana-Lafayette","Sun Belt",82
+"675",193,3,130,"Pac-12","Oregon","ORE",4,63,"",14,26,"TENN TECH","Tennessee Tech","FCS",167
+"449",194,3,132,"Big Ten","Penn State","PENN",26,34,"",7,26,"NAVY","Navy","Independent",103
+"773",195,3,133,"Big East","Pittsburgh","PITT",26,35,"",17,13,"VT","Virginia Tech","Atlantic Coast",190
+"191",196,3,136,"Big Ten","Purdue","PUR",26,54,"",16,26,"EMU","Eastern Michigan","Mid-American",43
+"510",197,3,144,"Mountain West","San Diego State","SDSU",26,49,"",41,26,"NDK","North Dakota","FCS",115
+"157",198,3,145,"Western Athletic","San Jose State","SJSU",26,40,"",20,26,"COLS","Colorado State","Mountain West",36
+"28",199,3,148,"Southeastern","South Carolina","SC",8,49,"",6,26,"UAB","Alabama-Birmingham","Conference USA",5
+"628",200,3,161,"Pac-12","Stanford","STAN",21,21,"",14,2,"USC","Southern California","Pac-12",156
+"655",201,3,164,"Big East","Syracuse","SYR",26,28,"",17,26,"STBRK","Stony Brook","FCS",163
+"430",202,3,169,"Big 12","Texas","TEX",14,66,"@",31,26,"OLE","Mississippi","Southeastern",97
+"631",203,3,170,"Southeastern","Texas A&M","TAMU",26,48,"@",3,26,"SMU","Southern Methodist","Conference USA",158
+"310",204,3,172,"Big 12","Texas Christian","TCU",16,20,"@",6,26,"KU","Kansas","Big 12",74
+"481",205,3,175,"Big 12","Texas Tech","TTU",26,49,"",14,26,"NM","New Mexico","Mountain West",108
+"484",206,3,176,"Conference USA","Texas-El Paso","UT-EP",26,41,"",28,26,"NMSU","New Mexico State","Western Athletic",109
+"230",207,3,177,"Western Athletic","Texas-San Antonio","UTSA",26,38,"@",14,26,"GEORST","Georgia State","FCS",57
+"96",208,3,178,"Mid-American","Toledo","TOL",26,27,"",15,26,"BG","Bowling Green State","Mid-American",20
+"496",209,3,182,"Conference USA","Tulsa","TULSA",26,66,"",16,26,"NICHST","Nicholls State","FCS",110
+"254",210,3,183,"Pac-12","UCLA","UCLA",22,37,"",6,26,"HOU","Houston","Conference USA",61
+"102",211,3,184,"Pac-12","Utah","UTAH",26,24,"",21,25,"BYU","Brigham Young","Independent",21
+"561",212,3,186,"Southeastern","Vanderbilt","VAN",26,58,"",0,26,"PRESB","Presbyterian","FCS",135
+"560",213,3,193,"Pac-12","Washington","WASH",26,52,"",13,26,"PORTST","Portland State","FCS",134
+"307",214,3,196,"Big 12","West Virginia","WV",9,42,"",12,26,"JAMES","James Madison","FCS",73
+"329",215,3,199,"Sun Belt","Western Kentucky","WKU",26,32,"@",31,26,"UK","Kentucky","Southeastern",77
+"755",216,3,202,"Big Ten","Wisconsin","WIS",26,16,"",14,26,"UTST","Utah State","Western Athletic",185
+"112",217,4,76,"Mid-American","Kent State","KENT",26,23,"@",7,26,"BUF","Buffalo","Mid-American",22
+"105",218,4,18,"Mountain West","Boise State","BST",24,7,"",6,26,"BYU","Brigham Young","Independent",21
+"348",219,4,16,"Big 12","Baylor","BAY",26,47,"@",42,26,"LA-M","Louisiana-Monroe","Sun Belt",83
+"206",220,4,3,"Southeastern","Alabama","BAMA",1,40,"",7,26,"FAU","Florida Atlantic","Sun Belt",48
+"752",221,4,9,"Pac-12","Arizona State","ASU",26,37,"",7,26,"UTAH","Utah","Pac-12",184
+"30",222,4,11,"Sun Belt","Arkansas State","ARKST",26,56,"",0,26,"ALCORN","Alcorn State","FCS",6
+"611",223,4,15,"Mid-American","Ball State","BALL",26,31,"",27,26,"SFU","South Florida","Big East",152
+"289",224,4,28,"Mid-American","Central Michigan","CMU",26,32,"@",31,26,"IOWA","Iowa","Big Ten",69
+"797",225,4,35,"Pac-12","Colorado","COL",26,35,"@",34,26,"WSU","Washington State","Pac-12",194
+"386",226,4,39,"Atlantic Coast","Duke","DUKE",26,38,"",14,26,"MEM","Memphis","Conference USA",90
+"330",227,4,46,"Southeastern","Florida","UF",14,38,"",0,26,"UK","Kentucky","Southeastern",77
+"142",228,4,50,"Atlantic Coast","Florida State","FSU",4,49,"",37,10,"CLEM","Clemson","Atlantic Coast",33
+"757",229,4,55,"Southeastern","Georgia","UGA",5,48,"",3,26,"VAN","Vanderbilt","Southeastern",186
+"538",230,4,75,"Big 12","Kansas State","KSU",15,24,"@",19,6,"OU","Oklahoma","Big 12",128
+"70",231,4,80,"Southeastern","Louisiana State","LSU",2,12,"@",10,26,"AUB","Auburn","Southeastern",13
+"272",232,4,81,"Western Athletic","Louisiana Tech","LTU",26,52,"@",24,26,"IL","Illinois","Big Ten",65
+"211",233,4,84,"Big East","Louisville","LOU",20,28,"@",21,26,"FIU","Florida International","Sun Belt",49
+"571",234,4,86,"Conference USA","Marshall","MAR ",26,54,"@",51,26,"RICE","Rice","Conference USA",138
+"236",235,4,91,"Atlantic Coast","Miami FL","MIA",26,42,"@",36,26,"GT","Georgia Tech","Atlantic Coast",58
+"376",236,4,92,"Mid-American","Miami OH","MIA-O",26,27,"",16,26,"UMASS","Massachusetts","Mid-American",88
+"188",237,4,94,"Big Ten","Michigan State","MSU",21,23,"",7,26,"EMU","Eastern Michigan","Mid-American",43
+"657",238,4,96,"Big Ten","Minnesota","MINN",26,17,"",10,26,"SYR","Syracuse","Big East",164
+"731",239,4,97,"Southeastern","Mississippi","OLE",26,39,"",0,26,"TULA","Tulane","Conference USA",181
+"602",240,4,98,"Southeastern","Mississippi State","MISS ST",23,30,"",10,26,"SOBAMA","South Alabama","Sun Belt",147
+"770",241,4,103,"Independent","Navy","NAVY",26,41,"",3,26,"VMI","Virginia Military Institute","FCS",189
+"269",242,4,104,"Big Ten","Nebraska","NEB",25,73,"",7,26,"IDST","Idaho State","FCS",64
+"243",243,4,105,"Mountain West","Nevada","NEV",26,69,"@",24,26,"HAW","Hawaii","Mountain West",60
+"2",244,4,106,"Mountain West","Nevada-Las Vegas","UNLV",26,38,"",35,26,"AF","Air Force","Mountain West",1
+"489",245,4,108,"Mountain West","New Mexico","NM",26,27,"@",14,26,"NMSU","New Mexico State","Western Athletic",109
+"182",246,4,112,"Atlantic Coast","North Carolina","UNC",26,27,"",6,26,"ECU","East Carolina","Conference USA",40
+"140",247,4,114,"Atlantic Coast","North Carolina State","NCST",26,52,"",14,26,"CIT","Citadel","FCS",32
+"316",248,4,120,"Mid-American","Northern Illinois","NIU",26,30,"",23,26,"KU","Kansas","Big 12",74
+"609",249,4,122,"Big Ten","Northwestern","NU",26,38,"",7,26,"USD","South Dakota","FCS",150
+"406",250,4,125,"Independent","Notre Dame","ND",11,13,"",6,18,"MICH","Michigan","Big Ten",93
+"498",251,4,126,"Mid-American","Ohio","OHIO",26,44,"",10,26,"NFLKST","Norfolk State","FCS",111
+"26",252,4,127,"Big Ten","Ohio State","OSU",16,29,"",15,26,"UAB","Alabama-Birmingham","Conference USA",5
+"33",253,4,130,"Pac-12","Oregon","ORE",3,49,"",0,22,"ARI","Arizona","Pac-12",8
+"746",254,4,131,"Pac-12","Oregon State","ORST",26,27,"@",20,19,"UCLA","UCLA","Pac-12",183
+"661",255,4,132,"Big Ten","Penn State","PENN",26,24,"",13,26,"TEM","Temple","Big East",165
+"226",256,4,133,"Big East","Pittsburgh","PITT",26,55,"",10,26,"GARDWB","Gardner-Webb","FCS",54
+"44",257,4,140,"Big East","Rutgers","RUT",26,35,"@",26,26,"ARK","Arkansas","Southeastern",10
+"589",258,4,145,"Western Athletic","San Jose State","SJSU",26,38,"@",34,26,"SDSU","San Diego State","Mountain West",144
+"440",259,4,148,"Southeastern","South Carolina","SC",7,31,"",10,26,"MIZZ","Missouri","Southeastern",99
+"118",260,4,156,"Pac-12","Southern California","USC",13,27,"",9,26,"CAL","California","Pac-12",24
+"10",261,4,166,"Southeastern","Tennessee","TEN",26,47,"",26,26,"AKRON","Akron","Mid-American",2
+"607",262,4,170,"Southeastern","Texas A&M","TAMU",26,70,"",14,26,"SCST","South Carolina State","FCS",149
+"767",263,4,172,"Big 12","Texas Christian","TCU",17,27,"",7,26,"UVA","Virginia","Atlantic Coast",188
+"654",264,4,174,"Western Athletic","Texas State","TEXST",26,41,"",37,26,"SFAUST","Stephen F. Austin","FCS",162
+"528",265,4,177,"Western Athletic","Texas-San Antonio","UTSA",26,56,"",3,26,"NWOKST","Northwestern Oklahoma State","Division II",123
+"143",266,4,178,"Mid-American","Toledo","TOL",26,38,"",28,26,"CC","Coastal Carolina","FCS",34
+"513",267,4,180,"Sun Belt","Troy","TROY",26,14,"@",7,26,"NTEX","North Texas","Sun Belt",117
+"224",268,4,182,"Conference USA","Tulsa","TULSA",26,27,"",26,26,"FRES","Fresno State","Mountain West",52
+"161",269,4,185,"Western Athletic","Utah State","UTST",26,31,"@",19,26,"COLS","Colorado State","Mountain West",36
+"99",270,4,190,"Atlantic Coast","Virginia Tech","VT",26,37,"",0,26,"BG","Bowling Green State","Mid-American",20
+"53",271,4,192,"Atlantic Coast","Wake Forest","WAKE",26,49,"",37,26,"ARMY","Army","Independent",12
+"368",272,4,196,"Big 12","West Virginia","WV",8,31,"",21,26,"MARY","Maryland","Atlantic Coast",87
+"648",273,4,199,"Sun Belt","Western Kentucky","WKU",26,42,"",17,26,"SO MISS","Southern Mississippi","Conference USA",159
+"167",274,4,200,"Mid-American","Western Michigan","WMU",26,30,"",24,26,"UCONN","Connecticut","Big East",37
+"708",275,4,202,"Big Ten","Wisconsin","WIS",26,37,"",26,26,"UT-EP","Texas-El Paso","Conference USA",176
+"265",276,4,204,"Mountain West","Wyoming","WYO",26,40,"@",37,26,"ID","Idaho","Western Athletic",63
+"651",277,5,193,"Pac-12","Washington","WASH",26,17,"",13,8,"STAN","Stanford","Pac-12",161
+"242",278,5,21,"Independent","Brigham Young","BYU",26,47,"",0,26,"HAW","Hawaii","Mountain West",60
+"155",279,5,1,"Mountain West","Air Force","AF",26,42,"",21,26,"COLS","Colorado State","Mountain West",36
+"429",280,5,3,"Southeastern","Alabama","BAMA",1,33,"",14,26,"OLE","Mississippi","Southeastern",97
+"117",281,5,9,"Pac-12","Arizona State","ASU",26,27,"@",17,26,"CAL","California","Pac-12",24
+"482",282,5,18,"Mountain West","Boise State","BST",24,32,"@",29,26,"NM","New Mexico","Mountain West",108
+"570",283,5,20,"Mid-American","Bowling Green State","BG",26,48,"",8,26,"RI","Rhode Island","FCS",137
+"771",284,5,31,"Big East","Cincinnati","CIN",26,27,"",24,26,"VT","Virginia Tech","Atlantic Coast",190
+"90",285,5,33,"Atlantic Coast","Clemson","CLEM",17,45,"@",31,26,"BC","Boston College","Atlantic Coast",19
+"110",286,5,37,"Big East","Connecticut","UCONN",26,24,"",17,26,"BUF","Buffalo","Mid-American",22
+"778",287,5,39,"Atlantic Coast","Duke","DUKE",26,34,"@",27,26,"WAKE","Wake Forest","Atlantic Coast",192
+"709",288,5,40,"Conference USA","East Carolina","ECU",26,28,"",18,26,"UT-EP","Texas-El Paso","Conference USA",176
+"612",289,5,50,"Atlantic Coast","Florida State","FSU",4,30,"@",17,26,"SFU","South Florida","Big East",152
+"586",290,5,52,"Mountain West","Fresno State","FRES",26,52,"",40,26,"SDSU","San Diego State","Mountain West",144
+"671",291,5,55,"Southeastern","Georgia","UGA",5,51,"",44,26,"TEN","Tennessee","Southeastern",166
+"574",292,5,61,"Conference USA","Houston","HOU",26,35,"",14,26,"RICE","Rice","Conference USA",138
+"423",293,5,69,"Big Ten","Iowa","IOWA",26,31,"",13,26,"MINN","Minnesota","Big Ten",96
+"77",294,5,76,"Mid-American","Kent State","KENT",26,45,"",43,26,"BALL","Ball State","Mid-American",15
+"721",295,5,80,"Southeastern","Louisiana State","LSU",3,38,"",22,26,"TOW","Towson","FCS",179
+"768",296,5,81,"Western Athletic","Louisiana Tech","LTU",26,44,"@",38,26,"UVA","Virginia","Atlantic Coast",188
+"216",297,5,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,48,"",20,26,"FIU","Florida International","Sun Belt",49
+"732",298,5,83,"Sun Belt","Louisiana-Monroe","LA-M",26,63,"@",10,26,"TULA","Tulane","Conference USA",181
+"643",299,5,84,"Big East","Louisville","LOU",19,21,"@",17,26,"SO MISS","Southern Mississippi","Conference USA",159
+"505",300,5,91,"Atlantic Coast","Miami FL","MIA",26,44,"",37,26,"NCST","North Carolina State","Atlantic Coast",114
+"8",301,5,92,"Mid-American","Miami OH","MIA-O",26,56,"@",49,26,"AKRON","Akron","Mid-American",2
+"238",302,5,95,"Sun Belt","Middle Tennessee State","MTSU",26,49,"@",28,26,"GT","Georgia Tech","Atlantic Coast",58
+"127",303,5,99,"Southeastern","Missouri","MIZZ",26,21,"@",16,26,"UCF","Central Florida","Conference USA",27
+"827",304,5,104,"Big Ten","Nebraska","NEB",22,30,"",27,26,"WIS","Wisconsin","Big Ten",202
+"695",305,5,105,"Mountain West","Nevada","NEV",26,34,"@",21,26,"TEXST","Texas State","Western Athletic",174
+"258",306,5,112,"Atlantic Coast","North Carolina","UNC",26,66,"",0,26,"ID","Idaho","Western Athletic",63
+"203",307,5,117,"Sun Belt","North Texas","NTEX",26,20,"@",14,26,"FAU","Florida Atlantic","Sun Belt",48
+"134",308,5,120,"Mid-American","Northern Illinois","NIU",26,55,"",24,26,"CMU","Central Michigan","Mid-American",28
+"286",309,5,122,"Big Ten","Northwestern","NU",26,44,"",29,26,"IND","Indiana","Big Ten",67
+"378",310,5,126,"Mid-American","Ohio","OHIO",26,37,"@",34,26,"UMASS","Massachusetts","Mid-American",88
+"410",311,5,127,"Big Ten","Ohio State","OSU",14,17,"@",16,20,"MSU","Michigan State","Big Ten",94
+"799",312,5,130,"Pac-12","Oregon","ORE",2,51,"@",26,26,"WSU","Washington State","Pac-12",194
+"35",313,5,131,"Pac-12","Oregon State","ORST",18,38,"@",35,26,"ARI","Arizona","Pac-12",8
+"273",314,5,132,"Big Ten","Penn State","PENN",26,35,"@",7,26,"IL","Illinois","Big Ten",65
+"359",315,5,136,"Big Ten","Purdue","PUR",26,51,"",41,26,"MAR ","Marshall","Conference USA",86
+"452",316,5,145,"Western Athletic","San Jose State","SJSU",26,12,"@",0,26,"NAVY","Navy","Independent",103
+"333",317,5,148,"Southeastern","South Carolina","SC",6,38,"@",17,26,"UK","Kentucky","Southeastern",77
+"60",318,5,163,"FCS","Stony Brook","STBRK",26,23,"@",3,26,"ARMY","Army","Independent",12
+"540",319,5,169,"Big 12","Texas","TEX",12,41,"@",36,26,"OKST","Oklahoma State","Big 12",129
+"48",320,5,170,"Southeastern","Texas A&M","TAMU",26,58,"",10,26,"ARK","Arkansas","Southeastern",10
+"634",321,5,172,"Big 12","Texas Christian","TCU",15,24,"@",16,26,"SMU","Southern Methodist","Conference USA",158
+"299",322,5,175,"Big 12","Texas Tech","TTU",26,24,"@",13,26,"ISU","Iowa State","Big 12",70
+"490",323,5,177,"Western Athletic","Texas-San Antonio","UTSA",26,35,"@",14,26,"NMSU","New Mexico State","Western Athletic",109
+"821",324,5,178,"Mid-American","Toledo","TOL",26,37,"@",17,26,"WMU","Western Michigan","Mid-American",200
+"595",325,5,180,"Sun Belt","Troy","TROY",26,31,"@",10,26,"SOBAMA","South Alabama","Sun Belt",147
+"29",326,5,182,"Conference USA","Tulsa","TULSA",26,49,"@",42,26,"UAB","Alabama-Birmingham","Conference USA",5
+"146",327,5,183,"Pac-12","UCLA","UCLA",26,42,"@",14,26,"COL","Colorado","Pac-12",35
+"465",328,5,185,"Western Athletic","Utah State","UTST",26,35,"",13,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"78",329,5,196,"Big 12","West Virginia","WV",9,70,"",63,25,"BAY","Baylor","Big 12",16
+"52",330,5,199,"Sun Belt","Western Kentucky","WKU",26,26,"@",13,26,"ARKST","Arkansas State","Sun Belt",11
+"209",331,6,11,"Sun Belt","Arkansas State","ARKST",26,34,"@",20,26,"FIU","Florida International","Sun Belt",49
+"181",332,6,27,"Conference USA","Central Florida","UCF",26,40,"",20,26,"ECU","East Carolina","Conference USA",40
+"750",333,6,156,"Pac-12","Southern California","USC",13,38,"@",28,26,"UTAH","Utah","Pac-12",184
+"756",334,6,21,"Independent","Brigham Young","BYU",26,6,"",3,26,"UTST","Utah State","Western Athletic",185
+"554",335,6,164,"Big East","Syracuse","SYR",26,14,"",13,26,"PITT","Pittsburgh","Big East",133
+"622",336,6,5,"Conference USA","Alabama-Birmingham","UAB",26,52,"",3,26,"SE LOU","Southeastern Louisiana","FCS",154
+"66",337,6,10,"Southeastern","Arkansas","ARK",26,24,"@",7,26,"AUB","Auburn","Southeastern",13
+"91",338,6,12,"Independent","Army","ARMY",26,34,"",31,26,"BC","Boston College","Atlantic Coast",19
+"647",339,6,18,"Mountain West","Boise State","BST",26,40,"@",14,26,"SO MISS","Southern Mississippi","Conference USA",159
+"11",340,6,20,"Mid-American","Bowling Green State","BG",26,24,"@",10,26,"AKRON","Akron","Mid-American",2
+"744",341,6,24,"Pac-12","California","CAL",26,43,"",17,25,"UCLA","UCLA","Pac-12",183
+"395",342,6,31,"Big East","Cincinnati","CIN",26,52,"",14,26,"MIA-O","Miami OH","Mid-American",92
+"235",343,6,33,"Atlantic Coast","Clemson","CLEM",15,47,"",31,26,"GT","Georgia Tech","Atlantic Coast",58
+"763",344,6,39,"Atlantic Coast","Duke","DUKE",26,42,"",17,26,"UVA","Virginia","Atlantic Coast",188
+"338",345,6,46,"Southeastern","Florida","UF",10,14,"",6,4,"LSU","Louisiana State","Southeastern",80
+"159",346,6,52,"Mountain West","Fresno State","FRES",26,28,"@",7,26,"COLS","Colorado State","Mountain West",36
+"514",347,6,61,"Conference USA","Houston","HOU",26,44,"",21,26,"NTEX","North Texas","Sun Belt",117
+"493",348,6,63,"Western Athletic","Idaho","ID",26,26,"",18,26,"NMSU","New Mexico State","Western Athletic",109
+"686",349,6,70,"Big 12","Iowa State","ISU",26,37,"@",23,15,"TCU","Texas Christian","Big 12",172
+"318",350,6,75,"Big 12","Kansas State","KSU",7,56,"",16,26,"KU","Kansas","Big 12",74
+"194",351,6,76,"Mid-American","Kent State","KENT",26,41,"@",14,26,"EMU","Eastern Michigan","Mid-American",43
+"464",352,6,81,"Western Athletic","Louisiana Tech","LTU",26,58,"",31,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"737",353,6,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,41,"",13,26,"TULA","Tulane","Conference USA",181
+"415",354,6,83,"Sun Belt","Louisiana-Monroe","LA-M",26,31,"@",17,26,"MTSU","Middle Tennessee State","Sun Belt",95
+"781",355,6,87,"Atlantic Coast","Maryland","MARY",26,19,"",14,26,"WAKE","Wake Forest","Atlantic Coast",192
+"572",356,6,90,"Conference USA","Memphis","MEM",26,14,"",10,26,"RICE","Rice","Conference USA",138
+"565",357,6,93,"Big Ten","Michigan","MICH",26,44,"@",13,26,"PUR","Purdue","Big Ten",136
+"280",358,6,94,"Big Ten","Michigan State","MSU",26,31,"@",27,26,"IND","Indiana","Big Ten",67
+"331",359,6,98,"Southeastern","Mississippi State","MISS ST",20,27,"@",14,26,"UK","Kentucky","Southeastern",77
+"7",360,6,103,"Independent","Navy","NAVY",26,28,"@",21,26,"AF","Air Force","Mountain West",1
+"833",361,6,105,"Mountain West","Nevada","NEV",26,35,"",28,26,"WYO","Wyoming","Mountain West",204
+"691",362,6,108,"Mountain West","New Mexico","NM",26,35,"",14,26,"TEXST","Texas State","Western Athletic",174
+"776",363,6,112,"Atlantic Coast","North Carolina","UNC",26,48,"",34,26,"VT","Virginia Tech","Atlantic Coast",190
+"219",364,6,114,"Atlantic Coast","North Carolina State","NCST",26,17,"",16,3,"FSU","Florida State","Atlantic Coast",50
+"74",365,6,120,"Mid-American","Northern Illinois","NIU",26,35,"@",23,26,"BALL","Ball State","Mid-American",15
+"391",366,6,125,"Independent","Notre Dame","ND",9,41,"",3,26,"MIA","Miami FL","Atlantic Coast",91
+"109",367,6,126,"Mid-American","Ohio","OHIO",26,38,"",31,26,"BUF","Buffalo","Mid-American",22
+"455",368,6,127,"Big Ten","Ohio State","OSU",12,63,"",38,21,"NEB","Nebraska","Big Ten",104
+"701",369,6,128,"Big 12","Oklahoma","OU",17,41,"@",20,26,"TTU","Texas Tech","Big 12",175
+"789",370,6,130,"Pac-12","Oregon","ORE",2,52,"",21,23,"WASH","Washington","Pac-12",193
+"793",371,6,131,"Pac-12","Oregon State","ORST",14,19,"",6,26,"WSU","Washington State","Pac-12",194
+"525",372,6,132,"Big Ten","Penn State","PENN",26,39,"",28,24,"NU","Northwestern","Big Ten",122
+"166",373,6,140,"Big East","Rutgers","RUT",22,19,"",3,26,"UCONN","Connecticut","Big East",37
+"240",374,6,144,"Mountain West","San Diego State","SDSU",26,52,"",14,26,"HAW","Hawaii","Mountain West",60
+"227",375,6,148,"Southeastern","South Carolina","SC",6,35,"",7,5,"UGA","Georgia","Southeastern",55
+"711",376,6,158,"Conference USA","Southern Methodist","SMU",26,17,"@",0,26,"UT-EP","Texas-El Paso","Conference USA",176
+"34",377,6,161,"Pac-12","Stanford","STAN",18,54,"",48,26,"ARI","Arizona","Pac-12",8
+"616",378,6,165,"Big East","Temple","TEM",26,37,"",28,26,"SFU","South Florida","Big East",152
+"426",379,6,170,"Southeastern","Texas A&M","TAMU",26,30,"@",27,26,"OLE","Mississippi","Southeastern",97
+"129",380,6,178,"Mid-American","Toledo","TOL",26,50,"",35,26,"CMU","Central Michigan","Mid-American",28
+"356",381,6,182,"Conference USA","Tulsa","TULSA",26,45,"@",38,26,"MAR ","Marshall","Conference USA",86
+"442",382,6,186,"Southeastern","Vanderbilt","VAN",26,19,"@",15,26,"MIZZ","Missouri","Southeastern",99
+"677",383,6,196,"Big 12","West Virginia","WV",8,48,"@",45,11,"TEX","Texas","Big 12",169
+"371",384,6,200,"Mid-American","Western Michigan","WMU",26,52,"",14,26,"UMASS","Massachusetts","Mid-American",88
+"274",385,6,202,"Big Ten","Wisconsin","WIS",26,31,"",14,26,"IL","Illinois","Big Ten",65
+"145",386,7,9,"Pac-12","Arizona State","ASU",26,51,"@",17,26,"COL","Colorado","Pac-12",35
+"712",387,7,182,"Conference USA","Tulsa","TULSA",26,33,"",11,26,"UT-EP","Texas-El Paso","Conference USA",176
+"729",388,7,199,"Sun Belt","Western Kentucky","WKU",26,31,"@",26,26,"TROY","Troy","Sun Belt",180
+"132",389,7,103,"Independent","Navy","NAVY",26,31,"@",13,26,"CMU","Central Michigan","Mid-American",28
+"837",390,7,1,"Mountain West","Air Force","AF",26,28,"@",27,26,"WYO","Wyoming","Mountain West",204
+"436",391,7,3,"Southeastern","Alabama","BAMA",1,42,"@",10,26,"MIZZ","Missouri","Southeastern",99
+"328",392,7,10,"Southeastern","Arkansas","ARK",26,49,"",7,26,"UK","Kentucky","Southeastern",77
+"598",393,7,11,"Sun Belt","Arkansas State","ARKST",26,36,"",29,26,"SOBAMA","South Alabama","Sun Belt",147
+"824",394,7,15,"Mid-American","Ball State","BALL",26,30,"",24,26,"WMU","Western Michigan","Mid-American",200
+"223",395,7,18,"Mountain West","Boise State","BST",24,20,"",10,26,"FRES","Fresno State","Mountain West",52
+"399",396,7,20,"Mid-American","Bowling Green State","BG",26,37,"",12,26,"MIA-O","Miami OH","Mid-American",92
+"798",397,7,24,"Pac-12","California","CAL",26,31,"@",17,26,"WSU","Washington State","Pac-12",194
+"638",398,7,27,"Conference USA","Central Florida","UCF",26,38,"",31,26,"SO MISS","Southern Mississippi","Conference USA",159
+"220",399,7,31,"Big East","Cincinnati","CIN",21,49,"",17,26,"FORD","Fordham","FCS",51
+"382",400,7,40,"Conference USA","East Carolina","ECU",26,41,"",7,26,"MEM","Memphis","Conference USA",90
+"759",401,7,46,"Southeastern","Florida","UF",4,31,"@",17,26,"VAN","Vanderbilt","Southeastern",186
+"88",402,7,50,"Atlantic Coast","Florida State","FSU",12,51,"",7,26,"BC","Boston College","Atlantic Coast",19
+"24",403,7,61,"Conference USA","Houston","HOU",26,39,"",17,26,"UAB","Alabama-Birmingham","Conference USA",5
+"413",404,7,69,"Big Ten","Iowa","IOWA",26,19,"@",16,26,"MSU","Michigan State","Big Ten",94
+"302",405,7,75,"Big 12","Kansas State","KSU",6,27,"@",21,26,"ISU","Iowa State","Big 12",70
+"55",406,7,76,"Mid-American","Kent State","KENT",26,31,"@",17,26,"ARMY","Army","Independent",12
+"606",407,7,80,"Southeastern","Louisiana State","LSU",9,23,"",21,3,"SC","South Carolina","Southeastern",148
+"200",408,7,83,"Sun Belt","Louisiana-Monroe","LA-M",26,35,"",14,26,"FAU","Florida Atlantic","Sun Belt",48
+"559",409,7,84,"Big East","Louisville","LOU",18,45,"@",35,26,"PITT","Pittsburgh","Big East",133
+"764",410,7,87,"Atlantic Coast","Maryland","MARY",26,27,"@",20,26,"UVA","Virginia","Atlantic Coast",188
+"278",411,7,93,"Big Ten","Michigan","MICH",25,45,"",0,26,"IL","Illinois","Big Ten",65
+"210",412,7,95,"Sun Belt","Middle Tennessee State","MTSU",26,34,"@",30,26,"FIU","Florida International","Sun Belt",49
+"68",413,7,97,"Southeastern","Mississippi","OLE",26,41,"",20,26,"AUB","Auburn","Southeastern",13
+"674",414,7,98,"Southeastern","Mississippi State","MISS ST",19,41,"",31,26,"TEN","Tennessee","Southeastern",166
+"463",415,7,105,"Mountain West","Nevada","NEV",26,42,"@",37,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"245",416,7,108,"Mountain West","New Mexico","NM",26,35,"@",23,26,"HAW","Hawaii","Mountain West",60
+"394",417,7,112,"Atlantic Coast","North Carolina","UNC",26,18,"@",14,26,"MIA","Miami FL","Atlantic Coast",91
+"111",418,7,120,"Mid-American","Northern Illinois","NIU",26,45,"",3,26,"BUF","Buffalo","Mid-American",22
+"419",419,7,122,"Big Ten","Northwestern","NU",26,21,"@",13,26,"MINN","Minnesota","Big Ten",96
+"652",420,7,125,"Independent","Notre Dame","ND",7,20,"",13,17,"STAN","Stanford","Pac-12",161
+"9",421,7,126,"Mid-American","Ohio","OHIO",26,34,"",28,26,"AKRON","Akron","Mid-American",2
+"285",422,7,127,"Big Ten","Ohio State","OSU",8,52,"@",49,26,"IND","Indiana","Big Ten",67
+"680",423,7,128,"Big 12","Oklahoma","OU",13,63,"",21,15,"TEX","Texas","Big 12",169
+"309",424,7,129,"Big 12","Oklahoma State","OKST",26,20,"@",14,26,"KU","Kansas","Big 12",74
+"101",425,7,131,"Pac-12","Oregon State","ORST",10,42,"@",24,26,"BYU","Brigham Young","Independent",21
+"714",426,7,138,"Conference USA","Rice","RICE",26,34,"",14,26,"UTSA","Texas-San Antonio","Western Athletic",177
+"656",427,7,140,"Big East","Rutgers","RUT",20,23,"",15,26,"SYR","Syracuse","Big East",164
+"162",428,7,144,"Mountain West","San Diego State","SDSU",26,38,"",14,26,"COLS","Colorado State","Mountain West",36
+"790",429,7,156,"Pac-12","Southern California","USC",11,24,"@",14,26,"WASH","Washington","Pac-12",193
+"169",430,7,165,"Big East","Temple","TEM",26,17,"@",14,26,"UCONN","Connecticut","Big East",37
+"340",431,7,170,"Southeastern","Texas A&M","TAMU",22,59,"@",57,23,"LTU","Louisiana Tech","Western Athletic",81
+"80",432,7,172,"Big 12","Texas Christian","TCU",26,49,"@",21,26,"BAY","Baylor","Big 12",16
+"266",433,7,174,"Western Athletic","Texas State","TEXST",26,38,"",7,26,"ID","Idaho","Western Athletic",63
+"807",434,7,175,"Big 12","Texas Tech","TTU",26,49,"",14,5,"WV","West Virginia","Big 12",196
+"186",435,7,178,"Mid-American","Toledo","TOL",26,52,"@",47,26,"EMU","Eastern Michigan","Mid-American",43
+"632",436,7,181,"Conference USA","Tulane","TULA",26,27,"",26,26,"SMU","Southern Methodist","Conference USA",158
+"754",437,7,183,"Pac-12","UCLA","UCLA",26,21,"",14,26,"UTAH","Utah","Pac-12",184
+"591",438,7,185,"Western Athletic","Utah State","UTST",26,49,"@",27,26,"SJSU","San Jose State","Western Athletic",145
+"173",439,7,190,"Atlantic Coast","Virginia Tech","VT",26,41,"",20,26,"DUKE","Duke","Atlantic Coast",39
+"569",440,7,202,"Big Ten","Wisconsin","WIS",26,38,"@",14,26,"PUR","Purdue","Big Ten",136
+"344",441,8,117,"Sun Belt","North Texas","NTEX",26,30,"",23,26,"LA-L","Louisiana-Lafayette","Sun Belt",82
+"40",442,8,130,"Pac-12","Oregon","ORE",2,43,"@",21,26,"ASU","Arizona State","Pac-12",9
+"251",443,8,158,"Conference USA","Southern Methodist","SMU",26,72,"",42,26,"HOU","Houston","Conference USA",61
+"164",444,8,164,"Big East","Syracuse","SYR",26,40,"",10,26,"UCONN","Connecticut","Big East",37
+"483",445,8,1,"Mountain West","Air Force","AF",26,28,"",23,26,"NM","New Mexico","Mountain West",108
+"668",446,8,3,"Southeastern","Alabama","BAMA",1,44,"@",13,26,"TEN","Tennessee","Southeastern",166
+"787",447,8,8,"Pac-12","Arizona","ARI",26,52,"",17,26,"WASH","Washington","Pac-12",193
+"131",448,8,15,"Mid-American","Ball State","BALL",26,41,"@",30,26,"CMU","Central Michigan","Mid-American",28
+"466",449,8,18,"Mountain West","Boise State","BST",24,32,"",7,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"373",450,8,20,"Mid-American","Bowling Green State","BG",26,24,"@",0,26,"UMASS","Massachusetts","Mid-American",88
+"388",451,8,27,"Conference USA","Central Florida","UCF",26,35,"@",17,26,"MEM","Memphis","Conference USA",90
+"775",452,8,33,"Atlantic Coast","Clemson","CLEM",14,38,"",17,26,"VT","Virginia Tech","Atlantic Coast",190
+"499",453,8,39,"Atlantic Coast","Duke","DUKE",26,33,"",30,26,"UNC","North Carolina","Atlantic Coast",112
+"21",454,8,40,"Conference USA","East Carolina","ECU",26,42,"@",35,26,"UAB","Alabama-Birmingham","Conference USA",5
+"62",455,8,43,"Mid-American","Eastern Michigan","EMU",26,48,"",38,26,"ARMY","Army","Independent",12
+"605",456,8,46,"Southeastern","Florida","UF",3,44,"",11,9,"SC","South Carolina","Southeastern",148
+"392",457,8,50,"Atlantic Coast","Florida State","FSU",12,33,"@",20,26,"MIA","Miami FL","Atlantic Coast",91
+"835",458,8,52,"Mountain West","Fresno State","FRES",26,42,"",14,26,"WYO","Wyoming","Mountain West",204
+"332",459,8,55,"Southeastern","Georgia","UGA",13,29,"@",24,26,"UK","Kentucky","Southeastern",77
+"94",460,8,58,"Atlantic Coast","Georgia Tech","GT",26,37,"",17,26,"BC","Boston College","Atlantic Coast",19
+"804",461,8,75,"Big 12","Kansas State","KSU",4,55,"@",14,17,"WV","West Virginia","Big 12",196
+"823",462,8,76,"Mid-American","Kent State","KENT",26,41,"",24,26,"WMU","Western Michigan","Mid-American",200
+"681",463,8,80,"Southeastern","Louisiana State","LSU",6,24,"@",19,20,"TAMU","Texas A&M","Southeastern",170
+"262",464,8,81,"Western Athletic","Louisiana Tech","LTU",26,70,"",28,26,"ID","Idaho","Western Athletic",63
+"816",465,8,83,"Sun Belt","Louisiana-Monroe","LA-M",26,43,"@",42,26,"WKU","Western Kentucky","Sun Belt",199
+"615",466,8,84,"Big East","Louisville","LOU",16,27,"",25,26,"SFU","South Florida","Big East",152
+"644",467,8,86,"Conference USA","Marshall","MAR ",26,59,"@",24,26,"SO MISS","Southern Mississippi","Conference USA",159
+"409",468,8,93,"Big Ten","Michigan","MICH",23,12,"",10,26,"MSU","Michigan State","Big Ten",94
+"416",469,8,98,"Southeastern","Mississippi State","MISS ST",15,45,"",3,26,"MTSU","Middle Tennessee State","Sun Belt",95
+"284",470,8,103,"Independent","Navy","NAVY",26,31,"",30,26,"IND","Indiana","Big Ten",67
+"527",471,8,104,"Big Ten","Nebraska","NEB",26,29,"@",28,26,"NU","Northwestern","Big Ten",122
+"364",472,8,114,"Atlantic Coast","North Carolina State","NCST",26,20,"@",18,26,"MARY","Maryland","Atlantic Coast",87
+"15",473,8,120,"Mid-American","Northern Illinois","NIU",26,37,"@",7,26,"AKRON","Akron","Mid-American",2
+"103",474,8,125,"Independent","Notre Dame","ND",5,17,"",14,26,"BYU","Brigham Young","Independent",21
+"564",475,8,127,"Big Ten","Ohio State","OSU",7,29,"",22,26,"PUR","Purdue","Big Ten",136
+"314",476,8,128,"Big 12","Oklahoma","OU",10,52,"",7,26,"KU","Kansas","Big 12",74
+"301",477,8,129,"Big 12","Oklahoma State","OKST",26,31,"",10,26,"ISU","Iowa State","Big 12",70
+"751",478,8,131,"Pac-12","Oregon State","ORST",8,21,"",7,26,"UTAH","Utah","Pac-12",184
+"291",479,8,132,"Big Ten","Penn State","PENN",26,38,"@",14,26,"IOWA","Iowa","Big Ten",69
+"108",480,8,133,"Big East","Pittsburgh","PITT",26,20,"@",6,26,"BUF","Buffalo","Mid-American",22
+"666",481,8,140,"Big East","Rutgers","RUT",19,35,"@",10,26,"TEM","Temple","Big East",165
+"460",482,8,144,"Mountain West","San Diego State","SDSU",26,39,"@",38,26,"NEV","Nevada","Mountain West",105
+"713",483,8,145,"Western Athletic","San Jose State","SJSU",26,52,"@",24,26,"UTSA","Texas-San Antonio","Western Athletic",177
+"204",484,8,147,"Sun Belt","South Alabama","SOBAMA",26,37,"",34,26,"FAU","Florida Atlantic","Sun Belt",48
+"154",485,8,156,"Pac-12","Southern California","USC",11,50,"",6,26,"COL","Colorado","Pac-12",35
+"116",486,8,161,"Pac-12","Stanford","STAN",22,21,"@",3,26,"CAL","California","Pac-12",24
+"79",487,8,169,"Big 12","Texas","TEX",26,56,"",50,26,"BAY","Baylor","Big 12",16
+"685",488,8,175,"Big 12","Texas Tech","TTU",18,56,"@",53,26,"TCU","Texas Christian","Big 12",172
+"730",489,8,176,"Conference USA","Texas-El Paso","UT-EP",26,24,"",20,26,"TULA","Tulane","Conference USA",181
+"138",490,8,178,"Mid-American","Toledo","TOL",26,29,"",23,21,"CIN","Cincinnati","Big East",31
+"212",491,8,180,"Sun Belt","Troy","TROY",26,38,"",37,26,"FIU","Florida International","Sun Belt",49
+"575",492,8,182,"Conference USA","Tulsa","TULSA",26,28,"",24,26,"RICE","Rice","Conference USA",138
+"491",493,8,185,"Western Athletic","Utah State","UTST",26,41,"",7,26,"NMSU","New Mexico State","Western Athletic",109
+"69",494,8,186,"Southeastern","Vanderbilt","VAN",26,17,"",13,26,"AUB","Auburn","Southeastern",13
+"769",495,8,192,"Atlantic Coast","Wake Forest","WAKE",26,16,"@",10,26,"UVA","Virginia","Atlantic Coast",188
+"421",496,8,202,"Big Ten","Wisconsin","WIS",26,38,"",13,26,"MINN","Minnesota","Big Ten",96
+"345",497,9,11,"Sun Belt","Arkansas State","ARKST",26,50,"@",27,26,"LA-L","Louisiana-Lafayette","Sun Belt",82
+"783",498,9,33,"Atlantic Coast","Clemson","CLEM",14,42,"@",13,26,"WAKE","Wake Forest","Atlantic Coast",192
+"459",499,9,1,"Mountain West","Air Force","AF",26,48,"",31,26,"NEV","Nevada","Mountain West",105
+"137",500,9,84,"Big East","Louisville","LOU",16,34,"",31,26,"CIN","Cincinnati","Big East",31
+"431",501,9,3,"Southeastern","Alabama","BAMA",1,38,"",7,13,"MISS ST","Mississippi State","Southeastern",98
+"627",502,9,8,"Pac-12","Arizona","ARI",26,39,"",36,10,"USC","Southern California","Pac-12",156
+"57",503,9,15,"Mid-American","Ball State","BALL",26,30,"@",22,26,"ARMY","Army","Independent",12
+"839",504,9,18,"Mountain West","Boise State","BST",21,45,"@",14,26,"WYO","Wyoming","Mountain West",204
+"362",505,9,19,"Atlantic Coast","Boston College","BC",26,20,"",17,26,"MARY","Maryland","Atlantic Coast",87
+"185",506,9,20,"Mid-American","Bowling Green State","BG",26,24,"",3,26,"EMU","Eastern Michigan","Mid-American",43
+"232",507,9,21,"Independent","Brigham Young","BYU",26,41,"@",17,26,"GT","Georgia Tech","Atlantic Coast",58
+"357",508,9,27,"Conference USA","Central Florida","UCF",26,54,"@",17,26,"MAR ","Marshall","Conference USA",86
+"16",509,9,28,"Mid-American","Central Michigan","CMU",26,35,"",14,26,"AKRON","Akron","Mid-American",2
+"247",510,9,36,"Mountain West","Colorado State","COLS",26,42,"",27,26,"HAW","Hawaii","Mountain West",60
+"728",511,9,48,"Sun Belt","Florida Atlantic","FAU",26,34,"",27,26,"TROY","Troy","Sun Belt",180
+"177",512,9,50,"Atlantic Coast","Florida State","FSU",11,48,"",7,26,"DUKE","Duke","Atlantic Coast",39
+"476",513,9,52,"Mountain West","Fresno State","FRES",26,49,"@",32,26,"NM","New Mexico","Mountain West",108
+"197",514,9,55,"Southeastern","Georgia","UGA",12,17,"",9,3,"UF","Florida","Southeastern",46
+"707",515,9,61,"Conference USA","Houston","HOU",26,45,"",35,26,"UT-EP","Texas-El Paso","Conference USA",176
+"275",516,9,67,"Big Ten","Indiana","IND",26,31,"@",17,26,"IL","Illinois","Big Ten",65
+"82",517,9,70,"Big 12","Iowa State","ISU",26,35,"",21,26,"BAY","Baylor","Big 12",16
+"700",518,9,75,"Big 12","Kansas State","KSU",4,55,"",24,15,"TTU","Texas Tech","Big 12",175
+"579",519,9,76,"Mid-American","Kent State","KENT",26,35,"@",23,18,"RUT","Rutgers","Big East",140
+"485",520,9,81,"Western Athletic","Louisiana Tech","LTU",24,28,"@",14,26,"NMSU","New Mexico State","Western Athletic",109
+"597",521,9,83,"Sun Belt","Louisiana-Monroe","LA-M",26,38,"",24,26,"SOBAMA","South Alabama","Sun Belt",147
+"535",522,9,92,"Mid-American","Miami OH","MIA-O",26,23,"",20,23,"OHIO","Ohio","Mid-American",126
+"830",523,9,94,"Big Ten","Michigan State","MSU",26,16,"@",13,26,"WIS","Wisconsin","Big Ten",202
+"518",524,9,95,"Sun Belt","Middle Tennessee State","MTSU",26,38,"",21,26,"NTEX","North Texas","Sun Belt",117
+"566",525,9,96,"Big Ten","Minnesota","MINN",26,44,"",28,26,"PUR","Purdue","Big Ten",136
+"42",526,9,97,"Southeastern","Mississippi","OLE",26,30,"@",27,26,"ARK","Arkansas","Southeastern",10
+"324",527,9,99,"Southeastern","Missouri","MIZZ",26,33,"",10,26,"UK","Kentucky","Southeastern",77
+"178",528,9,103,"Independent","Navy","NAVY",26,56,"@",28,26,"ECU","East Carolina","Conference USA",40
+"403",529,9,104,"Big Ten","Nebraska","NEB",26,23,"",9,20,"MICH","Michigan","Big Ten",93
+"509",530,9,112,"Atlantic Coast","North Carolina","UNC",26,43,"",35,26,"NCST","North Carolina State","Atlantic Coast",114
+"818",531,9,120,"Mid-American","Northern Illinois","NIU",26,48,"@",34,26,"WMU","Western Michigan","Mid-American",200
+"292",532,9,122,"Big Ten","Northwestern","NU",26,28,"",17,26,"IOWA","Iowa","Big Ten",69
+"536",533,9,125,"Independent","Notre Dame","ND",5,30,"@",13,8,"OU","Oklahoma","Big 12",128
+"552",534,9,127,"Big Ten","Ohio State","OSU",9,35,"@",23,26,"PENN","Penn State","Big Ten",132
+"689",535,9,129,"Big 12","Oklahoma State","OKST",26,36,"",14,26,"TCU","Texas Christian","Big 12",172
+"153",536,9,130,"Pac-12","Oregon","ORE",2,70,"",14,26,"COL","Colorado","Pac-12",35
+"667",537,9,133,"Big East","Pittsburgh","PITT",26,47,"",17,26,"TEM","Temple","Big East",165
+"646",538,9,138,"Conference USA","Rice","RICE",26,44,"",17,26,"SO MISS","Southern Mississippi","Conference USA",159
+"472",539,9,144,"Mountain West","San Diego State","SDSU",26,24,"",13,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"697",540,9,145,"Western Athletic","San Jose State","SJSU",26,31,"",20,26,"TEXST","Texas State","Western Athletic",174
+"672",541,9,148,"Southeastern","South Carolina","SC",17,38,"",35,26,"TEN","Tennessee","Southeastern",166
+"389",542,9,158,"Conference USA","Southern Methodist","SMU",26,44,"",13,26,"MEM","Memphis","Conference USA",90
+"792",543,9,161,"Pac-12","Stanford","STAN",19,24,"",17,26,"WSU","Washington State","Pac-12",194
+"618",544,9,164,"Big East","Syracuse","SYR",26,37,"@",36,26,"SFU","South Florida","Big East",152
+"312",545,9,169,"Big 12","Texas","TEX",26,21,"@",17,26,"KU","Kansas","Big 12",74
+"67",546,9,170,"Southeastern","Texas A&M","TAMU",22,63,"@",21,26,"AUB","Auburn","Southeastern",13
+"113",547,9,178,"Mid-American","Toledo","TOL",26,25,"@",20,26,"BUF","Buffalo","Mid-American",22
+"22",548,9,181,"Conference USA","Tulane","TULA",26,55,"",45,26,"UAB","Alabama-Birmingham","Conference USA",5
+"41",549,9,183,"Pac-12","UCLA","UCLA",26,45,"@",43,26,"ASU","Arizona State","Pac-12",9
+"120",550,9,184,"Pac-12","Utah","UTAH",26,49,"",27,26,"CAL","California","Pac-12",24
+"715",551,9,185,"Western Athletic","Utah State","UTST",26,48,"@",17,26,"UTSA","Texas-San Antonio","Western Athletic",177
+"380",552,9,186,"Southeastern","Vanderbilt","VAN",26,49,"",7,26,"UMASS","Massachusetts","Mid-American",88
+"547",553,9,193,"Pac-12","Washington","WASH",26,20,"",17,7,"ORST","Oregon State","Pac-12",131
+"213",554,9,199,"Sun Belt","Western Kentucky","WKU",26,14,"@",6,26,"FIU","Florida International","Sun Belt",49
+"774",555,10,91,"Atlantic Coast","Miami FL","MIA",26,30,"",12,26,"VT","Virginia Tech","Atlantic Coast",190
+"811",556,10,95,"Sun Belt","Middle Tennessee State","MTSU",26,34,"@",29,26,"WKU","Western Kentucky","Sun Belt",199
+"193",557,10,126,"Mid-American","Ohio","OHIO",26,45,"",14,26,"EMU","Eastern Michigan","Mid-American",43
+"119",558,10,193,"Pac-12","Washington","WASH",26,21,"@",13,26,"CAL","California","Pac-12",24
+"339",559,10,3,"Southeastern","Alabama","BAMA",1,21,"@",17,5,"LSU","Louisiana State","Southeastern",80
+"640",560,10,5,"Conference USA","Alabama-Birmingham","UAB",26,27,"@",19,26,"SO MISS","Southern Mississippi","Conference USA",159
+"740",561,10,10,"Southeastern","Arkansas","ARK",26,19,"",15,26,"TULSA","Tulsa","Conference USA",182
+"512",562,10,11,"Sun Belt","Arkansas State","ARKST",26,37,"@",19,26,"NTEX","North Texas","Sun Belt",117
+"6",563,10,12,"Independent","Army","ARMY",26,41,"",21,26,"AF","Air Force","Mountain West",1
+"487",564,10,13,"Southeastern","Auburn","AUB",26,42,"",7,26,"NMSU","New Mexico State","Western Athletic",109
+"311",565,10,16,"Big 12","Baylor","BAY",26,41,"",14,26,"KU","Kansas","Big 12",74
+"396",566,10,22,"Mid-American","Buffalo","BUF",26,27,"",24,26,"MIA-O","Miami OH","Mid-American",92
+"633",567,10,27,"Conference USA","Central Florida","UCF",26,42,"",17,26,"SMU","Southern Methodist","Conference USA",158
+"659",568,10,31,"Big East","Cincinnati","CIN",26,35,"",24,26,"SYR","Syracuse","Big East",164
+"171",569,10,33,"Atlantic Coast","Clemson","CLEM",10,56,"@",20,26,"DUKE","Duke","Atlantic Coast",39
+"249",570,10,40,"Conference USA","East Carolina","ECU",26,48,"",28,26,"HOU","Houston","Conference USA",61
+"437",571,10,46,"Southeastern","Florida","UF",8,14,"",7,26,"MIZZ","Missouri","Southeastern",99
+"596",572,10,49,"Sun Belt","Florida International","FIU",26,28,"@",20,26,"SOBAMA","South Alabama","Sun Belt",147
+"244",573,10,52,"Mountain West","Fresno State","FRES",26,45,"",10,26,"HAW","Hawaii","Mountain West",60
+"425",574,10,55,"Southeastern","Georgia","UGA",7,37,"",10,26,"OLE","Mississippi","Southeastern",97
+"365",575,10,58,"Atlantic Coast","Georgia Tech","GT",26,33,"@",13,26,"MARY","Maryland","Atlantic Coast",87
+"293",576,10,67,"Big Ten","Indiana","IND",26,24,"",21,26,"IOWA","Iowa","Big Ten",69
+"543",577,10,75,"Big 12","Kansas State","KSU",3,44,"",30,26,"OKST","Oklahoma State","Big 12",129
+"17",578,10,76,"Mid-American","Kent State","KENT",26,35,"",24,26,"AKRON","Akron","Mid-American",2
+"716",579,10,81,"Western Athletic","Louisiana Tech","LTU",22,51,"",27,26,"UTSA","Texas-San Antonio","Western Athletic",177
+"347",580,10,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,40,"@",24,26,"LA-M","Louisiana-Monroe","Sun Belt",83
+"663",581,10,84,"Big East","Louisville","LOU",12,45,"",17,26,"TEM","Temple","Big East",165
+"385",582,10,86,"Conference USA","Marshall","MAR ",26,38,"",28,26,"MEM","Memphis","Conference USA",90
+"418",583,10,93,"Big Ten","Michigan","MICH",26,35,"@",13,26,"MINN","Minnesota","Big Ten",96
+"208",584,10,103,"Independent","Navy","NAVY",26,24,"",17,26,"FAU","Florida Atlantic","Sun Belt",48
+"408",585,10,104,"Big Ten","Nebraska","NEB",21,28,"@",24,26,"MSU","Michigan State","Big Ten",94
+"479",586,10,106,"Mountain West","Nevada-Las Vegas","UNLV",26,35,"",7,26,"NM","New Mexico","Mountain West",108
+"372",587,10,120,"Mid-American","Northern Illinois","NIU",26,63,"",0,26,"UMASS","Massachusetts","Mid-American",88
+"558",588,10,125,"Independent","Notre Dame","ND",4,29,"",26,26,"PITT","Pittsburgh","Big East",133
+"279",589,10,127,"Big Ten","Ohio State","OSU",6,52,"",22,26,"IL","Illinois","Big Ten",65
+"300",590,10,128,"Big 12","Oklahoma","OU",14,35,"@",20,26,"ISU","Iowa State","Big 12",70
+"624",591,10,130,"Pac-12","Oregon","ORE",2,62,"@",51,18,"USC","Southern California","Pac-12",156
+"38",592,10,131,"Pac-12","Oregon State","ORST",13,36,"",26,26,"ASU","Arizona State","Pac-12",9
+"567",593,10,132,"Big Ten","Penn State","PENN",26,34,"@",9,26,"PUR","Purdue","Big Ten",136
+"735",594,10,138,"Conference USA","Rice","RICE",26,49,"@",47,26,"TULA","Tulane","Conference USA",181
+"84",595,10,144,"Mountain West","San Diego State","SDSU",26,21,"@",19,19,"BST","Boise State","Mountain West",18
+"263",596,10,145,"Western Athletic","San Jose State","SJSU",26,42,"@",13,26,"ID","Idaho","Western Athletic",63
+"165",597,10,152,"Big East","South Florida","SFU",26,13,"",6,26,"UCONN","Connecticut","Big East",37
+"150",598,10,161,"Pac-12","Stanford","STAN",15,48,"@",0,26,"COL","Colorado","Pac-12",35
+"727",599,10,166,"Southeastern","Tennessee","TEN",26,55,"",48,26,"TROY","Troy","Sun Belt",180
+"702",600,10,169,"Big 12","Texas","TEX",26,31,"@",22,20,"TTU","Texas Tech","Big 12",175
+"433",601,10,170,"Southeastern","Texas A&M","TAMU",16,38,"@",13,17,"MISS ST","Mississippi State","Southeastern",98
+"806",602,10,172,"Big 12","Texas Christian","TCU",26,39,"@",38,23,"WV","West Virginia","Big 12",196
+"32",603,10,183,"Pac-12","UCLA","UCLA",25,66,"",10,24,"ARI","Arizona","Pac-12",8
+"791",604,10,184,"Pac-12","Utah","UTAH",26,49,"",6,26,"WSU","Washington State","Pac-12",194
+"698",605,10,185,"Western Athletic","Utah State","UTST",26,38,"",7,26,"TEXST","Texas State","Western Athletic",174
+"325",606,10,186,"Southeastern","Vanderbilt","VAN",26,40,"@",0,26,"UK","Kentucky","Southeastern",77
+"506",607,10,188,"Atlantic Coast","Virginia","UVA",26,33,"@",6,26,"NCST","North Carolina State","Atlantic Coast",114
+"89",608,10,192,"Atlantic Coast","Wake Forest","WAKE",26,28,"",14,26,"BC","Boston College","Atlantic Coast",19
+"130",609,10,200,"Mid-American","Western Michigan","WMU",26,42,"@",31,26,"CMU","Central Michigan","Mid-American",28
+"158",610,10,204,"Mountain West","Wyoming","WYO",26,45,"",31,26,"COLS","Colorado State","Mountain West",36
+"717",611,11,15,"Mid-American","Ball State","BALL",26,34,"@",27,23,"TOL","Toledo","Mid-American",178
+"532",612,11,20,"Mid-American","Bowling Green State","BG",26,26,"@",14,26,"OHIO","Ohio","Mid-American",126
+"351",613,11,11,"Sun Belt","Arkansas State","ARKST",26,45,"",23,26,"LA-M","Louisiana-Monroe","Sun Belt",83
+"772",614,11,50,"Atlantic Coast","Florida State","FSU",8,28,"@",22,26,"VT","Virginia Tech","Atlantic Coast",190
+"557",615,11,37,"Big East","Connecticut","UCONN",26,24,"",17,26,"PITT","Pittsburgh","Big East",133
+"361",616,11,5,"Conference USA","Alabama-Birmingham","UAB",26,38,"",31,26,"MAR ","Marshall","Conference USA",86
+"151",617,11,8,"Pac-12","Arizona","ARI",26,56,"",31,26,"COL","Colorado","Pac-12",35
+"241",618,11,18,"Mountain West","Boise State","BST",26,49,"@",14,26,"HAW","Hawaii","Mountain West",60
+"264",619,11,21,"Independent","Brigham Young","BYU",26,52,"",13,26,"ID","Idaho","Western Athletic",63
+"820",620,11,22,"Mid-American","Buffalo","BUF",26,29,"",24,26,"WMU","Western Michigan","Mid-American",200
+"706",621,11,27,"Conference USA","Central Florida","UCF",26,31,"@",24,26,"UT-EP","Texas-El Paso","Conference USA",176
+"192",622,11,28,"Mid-American","Central Michigan","CMU",26,34,"@",31,26,"EMU","Eastern Michigan","Mid-American",43
+"665",623,11,31,"Big East","Cincinnati","CIN",26,34,"@",10,26,"TEM","Temple","Big East",165
+"369",624,11,33,"Atlantic Coast","Clemson","CLEM",10,45,"",10,26,"MARY","Maryland","Atlantic Coast",87
+"467",625,11,36,"Mountain West","Colorado State","COLS",26,33,"",11,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"346",626,11,46,"Southeastern","Florida","UF",7,27,"",20,26,"LA-L","Louisiana-Lafayette","Sun Belt",82
+"815",627,11,48,"Sun Belt","Florida Atlantic","FAU",26,37,"@",28,26,"WKU","Western Kentucky","Sun Belt",199
+"457",628,11,52,"Mountain West","Fresno State","FRES",26,52,"@",36,26,"NEV","Nevada","Mountain West",105
+"63",629,11,55,"Southeastern","Georgia","UGA",5,38,"@",0,26,"AUB","Auburn","Southeastern",13
+"501",630,11,58,"Atlantic Coast","Georgia Tech","GT",26,68,"@",50,26,"UNC","North Carolina","Atlantic Coast",112
+"687",631,11,75,"Big 12","Kansas State","KSU",3,23,"@",10,26,"TCU","Texas Christian","Big 12",172
+"402",632,11,76,"Mid-American","Kent State","KENT",26,48,"@",32,26,"MIA-O","Miami OH","Mid-American",92
+"434",633,11,80,"Southeastern","Louisiana State","LSU",9,37,"",17,22,"MISS ST","Mississippi State","Southeastern",98
+"694",634,11,81,"Western Athletic","Louisiana Tech","LTU",19,62,"@",55,26,"TEXST","Texas State","Western Athletic",174
+"13",635,11,88,"Mid-American","Massachusetts","UMASS",26,22,"@",14,26,"AKRON","Akron","Mid-American",2
+"738",636,11,90,"Conference USA","Memphis","MEM",26,37,"",23,26,"TULA","Tulane","Conference USA",181
+"526",637,11,93,"Big Ten","Michigan","MICH",26,38,"",31,26,"NU","Northwestern","Big Ten",122
+"276",638,11,96,"Big Ten","Minnesota","MINN",26,17,"@",3,26,"IL","Illinois","Big Ten",65
+"669",639,11,99,"Southeastern","Missouri","MIZZ",26,51,"@",48,26,"TEN","Tennessee","Southeastern",166
+"550",640,11,104,"Big Ten","Nebraska","NEB",18,32,"",23,26,"PENN","Penn State","Big Ten",132
+"782",641,11,114,"Atlantic Coast","North Carolina State","NCST",26,37,"",6,26,"WAKE","Wake Forest","Atlantic Coast",192
+"600",642,11,117,"Sun Belt","North Texas","NTEX",26,24,"",14,26,"SOBAMA","South Alabama","Sun Belt",147
+"93",643,11,125,"Independent","Notre Dame","ND",4,21,"@",6,26,"BC","Boston College","Atlantic Coast",19
+"81",644,11,128,"Big 12","Oklahoma","OU",14,42,"",34,26,"BAY","Baylor","Big 12",16
+"802",645,11,129,"Big 12","Oklahoma State","OKST",26,55,"",34,26,"WV","West Virginia","Big 12",196
+"121",646,11,130,"Pac-12","Oregon","ORE",2,59,"@",17,26,"CAL","California","Pac-12",24
+"295",647,11,136,"Big Ten","Purdue","PUR",26,27,"@",24,26,"IOWA","Iowa","Big Ten",69
+"59",648,11,140,"Big East","Rutgers","RUT",24,28,"",7,26,"ARMY","Army","Independent",12
+"4",649,11,144,"Mountain West","San Diego State","SDSU",26,28,"",9,26,"AF","Air Force","Mountain West",1
+"492",650,11,145,"Western Athletic","San Jose State","SJSU",26,47,"@",7,26,"NMSU","New Mexico State","Western Athletic",109
+"45",651,11,148,"Southeastern","South Carolina","SC",12,38,"",20,26,"ARK","Arkansas","Southeastern",10
+"39",652,11,156,"Pac-12","Southern California","USC",21,38,"",17,26,"ASU","Arizona State","Pac-12",9
+"642",653,11,158,"Conference USA","Southern Methodist","SMU",26,34,"",6,26,"SO MISS","Southern Mississippi","Conference USA",159
+"546",654,11,161,"Pac-12","Stanford","STAN",16,27,"",23,13,"ORST","Oregon State","Pac-12",131
+"352",655,11,164,"Big East","Syracuse","SYR",26,45,"",26,11,"LOU","Louisville","Big East",84
+"297",656,11,169,"Big 12","Texas","TEX",19,33,"",7,26,"ISU","Iowa State","Big 12",70
+"19",657,11,170,"Southeastern","Texas A&M","TAMU",15,29,"@",24,1,"BAMA","Alabama","Southeastern",3
+"317",658,11,175,"Big 12","Texas Tech","TTU",25,41,"",34,26,"KU","Kansas","Big 12",74
+"381",659,11,177,"Western Athletic","Texas-San Antonio","UTSA",26,31,"",24,26,"MCNST","McNeese State","FCS",89
+"451",660,11,180,"Sun Belt","Troy","TROY",26,41,"",31,26,"NAVY","Navy","Independent",103
+"255",661,11,182,"Conference USA","Tulsa","TULSA",26,41,"@",7,26,"HOU","Houston","Conference USA",61
+"795",662,11,183,"Pac-12","UCLA","UCLA",17,44,"@",36,26,"WSU","Washington State","Pac-12",194
+"428",663,11,186,"Southeastern","Vanderbilt","VAN",26,27,"@",26,26,"OLE","Mississippi","Southeastern",97
+"390",664,11,188,"Atlantic Coast","Virginia","UVA",26,41,"",40,26,"MIA","Miami FL","Atlantic Coast",91
+"753",665,11,193,"Pac-12","Washington","WASH",26,34,"",15,26,"UTAH","Utah","Pac-12",184
+"287",666,11,202,"Big Ten","Wisconsin","WIS",26,62,"@",14,26,"IND","Indiana","Big Ten",67
+"477",667,11,204,"Mountain West","Wyoming","WYO",26,28,"@",23,26,"NM","New Mexico","Mountain West",108
+"533",668,12,15,"Mid-American","Ball State","BALL",26,52,"",27,26,"OHIO","Ohio","Mid-American",126
+"719",669,12,120,"Mid-American","Northern Illinois","NIU",26,31,"",24,26,"TOL","Toledo","Mid-American",178
+"765",670,12,112,"Atlantic Coast","North Carolina","UNC",26,37,"@",13,26,"UVA","Virginia","Atlantic Coast",188
+"246",671,12,1,"Mountain West","Air Force","AF",26,21,"",7,26,"HAW","Hawaii","Mountain West",60
+"207",672,12,49,"Sun Belt","Florida International","FIU",26,34,"@",24,26,"FAU","Florida Atlantic","Sun Belt",48
+"809",673,12,3,"Southeastern","Alabama","BAMA",4,49,"",0,26,"WCU","Western Carolina","FCS",197
+"749",674,12,8,"Pac-12","Arizona","ARI",26,34,"@",24,26,"UTAH","Utah","Pac-12",184
+"794",675,12,9,"Pac-12","Arizona State","ASU",26,46,"",7,26,"WSU","Washington State","Pac-12",194
+"724",676,12,11,"Sun Belt","Arkansas State","ARKST",26,41,"@",34,26,"TROY","Troy","Sun Belt",180
+"20",677,12,13,"Southeastern","Auburn","AUB",26,51,"",7,26,"BAMA A&M","Alabama A&M","FCS",4
+"319",678,12,16,"Big 12","Baylor","BAY",26,52,"",24,2,"KSU","Kansas State","Big 12",75
+"160",679,12,18,"Mountain West","Boise State","BST",26,42,"",14,26,"COLS","Colorado State","Mountain West",36
+"374",680,12,22,"Mid-American","Buffalo","BUF",26,29,"@",19,26,"UMASS","Massachusetts","Mid-American",88
+"397",681,12,28,"Mid-American","Central Michigan","CMU",26,30,"",16,26,"MIA-O","Miami OH","Mid-American",92
+"504",682,12,33,"Atlantic Coast","Clemson","CLEM",11,62,"",48,26,"NCST","North Carolina State","Atlantic Coast",114
+"739",683,12,40,"Conference USA","East Carolina","ECU",26,28,"@",23,26,"TULA","Tulane","Conference USA",181
+"819",684,12,43,"Mid-American","Eastern Michigan","EMU",26,29,"@",23,26,"WMU","Western Michigan","Mid-American",200
+"305",685,12,46,"Southeastern","Florida","UF",7,23,"",0,26,"JVILST","Jacksonville State","FCS",72
+"366",686,12,50,"Atlantic Coast","Florida State","FSU",10,41,"@",14,26,"MARY","Maryland","Atlantic Coast",87
+"229",687,12,55,"Southeastern","Georgia","UGA",5,45,"",14,26,"GA SOU","Georgia Southern","FCS",56
+"175",688,12,58,"Atlantic Coast","Georgia Tech","GT",26,42,"",24,26,"DUKE","Duke","Atlantic Coast",39
+"315",689,12,70,"Big 12","Iowa State","ISU",26,51,"@",23,26,"KU","Kansas","Big 12",74
+"98",690,12,76,"Mid-American","Kent State","KENT",25,31,"@",24,26,"BG","Bowling Green State","Mid-American",20
+"585",691,12,77,"Southeastern","Kentucky","UK",26,34,"",3,26,"SAMF","Samford","FCS",143
+"427",692,12,80,"Southeastern","Louisiana State","LSU",8,41,"",35,26,"OLE","Mississippi","Southeastern",97
+"812",693,12,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,31,"",27,26,"WKU","Western Kentucky","Sun Belt",199
+"516",694,12,83,"Sun Belt","Louisiana-Monroe","LA-M",26,42,"",16,26,"NTEX","North Texas","Sun Belt",117
+"250",695,12,86,"Conference USA","Marshall","MAR ",26,44,"",41,26,"HOU","Houston","Conference USA",61
+"27",696,12,90,"Conference USA","Memphis","MEM",26,46,"@",9,26,"UAB","Alabama-Birmingham","Conference USA",5
+"617",697,12,91,"Atlantic Coast","Miami FL","MIA",26,40,"",9,26,"SFU","South Florida","Big East",152
+"294",698,12,93,"Big Ten","Michigan","MICH",23,42,"",17,26,"IOWA","Iowa","Big Ten",69
+"601",699,12,95,"Sun Belt","Middle Tennessee State","MTSU",26,20,"@",12,26,"SOBAMA","South Alabama","Sun Belt",147
+"46",700,12,98,"Southeastern","Mississippi State","MISS ST",26,45,"",14,26,"ARK","Arkansas","Southeastern",10
+"696",701,12,103,"Independent","Navy","NAVY",26,21,"",10,26,"TEXST","Texas State","Western Athletic",174
+"422",702,12,104,"Big Ten","Nebraska","NEB",16,38,"",14,26,"MINN","Minnesota","Big Ten",96
+"480",703,12,105,"Mountain West","Nevada","NEV",26,31,"@",24,26,"NM","New Mexico","Mountain West",108
+"411",704,12,122,"Big Ten","Northwestern","NU",26,23,"@",20,26,"MSU","Michigan State","Big Ten",94
+"784",705,12,125,"Independent","Notre Dame","ND",3,38,"",0,26,"WAKE","Wake Forest","Atlantic Coast",192
+"828",706,12,127,"Big Ten","Ohio State","OSU",6,21,"@",14,26,"WIS","Wisconsin","Big Ten",202
+"803",707,12,128,"Big 12","Oklahoma","OU",13,50,"@",49,26,"WV","West Virginia","Big 12",196
+"703",708,12,129,"Big 12","Oklahoma State","OKST",26,59,"",21,23,"TTU","Texas Tech","Big 12",175
+"122",709,12,131,"Pac-12","Oregon State","ORST",15,62,"",14,26,"CAL","California","Pac-12",24
+"283",710,12,132,"Big Ten","Penn State","PENN",26,45,"",22,26,"IND","Indiana","Big Ten",67
+"277",711,12,136,"Big Ten","Purdue","PUR",26,20,"@",17,26,"IL","Illinois","Big Ten",65
+"636",712,12,138,"Conference USA","Rice","RICE",26,36,"",20,26,"SMU","Southern Methodist","Conference USA",158
+"139",713,12,140,"Big East","Rutgers","RUT",22,10,"@",3,26,"CIN","Cincinnati","Big East",31
+"104",714,12,145,"Western Athletic","San Jose State","SJSU",26,20,"",14,26,"BYU","Brigham Young","Independent",21
+"832",715,12,148,"Southeastern","South Carolina","SC",12,24,"",7,26,"WOFF","Wofford","FCS",203
+"544",716,12,161,"Pac-12","Stanford","STAN",14,17,"@",14,1,"ORE","Oregon","Pac-12",130
+"438",717,12,164,"Big East","Syracuse","SYR",26,31,"@",27,26,"MIZZ","Missouri","Southeastern",99
+"58",718,12,165,"Big East","Temple","TEM",26,63,"@",32,26,"ARMY","Army","Independent",12
+"584",719,12,170,"Southeastern","Texas A&M","TAMU",9,47,"",28,26,"SAMH","Sam Houston State","FCS",142
+"641",720,12,176,"Conference USA","Texas-El Paso","UT-EP",26,34,"@",33,26,"SO MISS","Southern Mississippi","Conference USA",159
+"260",721,12,177,"Western Athletic","Texas-San Antonio","UTSA",26,34,"@",27,26,"ID","Idaho","Western Athletic",63
+"128",722,12,182,"Conference USA","Tulsa","TULSA",26,23,"",21,26,"UCF","Central Florida","Conference USA",27
+"629",723,12,183,"Pac-12","UCLA","UCLA",17,38,"",28,21,"USC","Southern California","Pac-12",156
+"341",724,12,185,"Western Athletic","Utah State","UTST",26,48,"@",41,19,"LTU","Louisiana Tech","Western Athletic",81
+"670",725,12,186,"Southeastern","Vanderbilt","VAN",26,41,"",18,26,"TEN","Tennessee","Southeastern",166
+"95",726,12,190,"Atlantic Coast","Virginia Tech","VT",26,30,"@",23,26,"BC","Boston College","Atlantic Coast",19
+"147",727,12,193,"Pac-12","Washington","WASH",26,38,"@",3,26,"COL","Colorado","Pac-12",35
+"473",728,12,204,"Mountain West","Wyoming","WYO",26,28,"@",23,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"12",729,13,178,"Mid-American","Toledo","TOL",26,35,"",23,26,"AKRON","Akron","Mid-American",2
+"679",730,13,172,"Big 12","Texas Christian","TCU",26,20,"@",13,18,"TEX","Texas","Big 12",169
+"36",731,13,9,"Pac-12","Arizona State","ASU",26,41,"@",34,26,"ARI","Arizona","Pac-12",8
+"398",732,13,15,"Mid-American","Ball State","BALL",26,31,"@",24,26,"MIA-O","Miami OH","Mid-American",92
+"106",733,13,20,"Mid-American","Bowling Green State","BG",26,21,"",7,26,"BUF","Buffalo","Mid-American",22
+"379",734,13,28,"Mid-American","Central Michigan","CMU",26,42,"@",21,26,"UMASS","Massachusetts","Mid-American",88
+"619",735,13,31,"Big East","Cincinnati","CIN",26,27,"",10,26,"SFU","South Florida","Big East",152
+"358",736,13,40,"Conference USA","East Carolina","ECU",26,65,"",59,26,"MAR ","Marshall","Conference USA",86
+"534",737,13,76,"Mid-American","Kent State","KENT",23,28,"",6,26,"OHIO","Ohio","Mid-American",126
+"47",738,13,80,"Southeastern","Louisiana State","LSU",8,20,"@",13,26,"ARK","Arkansas","Southeastern",10
+"290",739,13,104,"Big Ten","Nebraska","NEB",17,13,"@",7,26,"IOWA","Iowa","Big Ten",69
+"187",740,13,120,"Mid-American","Northern Illinois","NIU",24,49,"@",7,26,"EMU","Eastern Michigan","Mid-American",43
+"664",741,13,164,"Big East","Syracuse","SYR",26,38,"@",20,26,"TEM","Temple","Big East",165
+"152",742,13,184,"Pac-12","Utah","UTAH",26,42,"@",35,26,"COL","Colorado","Pac-12",35
+"786",743,13,194,"Pac-12","Washington State","WSU",26,31,"",28,26,"WASH","Washington","Pac-12",193
+"303",744,13,196,"Big 12","West Virginia","WV",26,31,"@",24,26,"ISU","Iowa State","Big 12",70
+"64",745,13,3,"Southeastern","Alabama","BAMA",2,49,"",0,26,"AUB","Auburn","Southeastern",13
+"699",746,13,16,"Big 12","Baylor","BAY",26,52,"",45,26,"TTU","Texas Tech","Big 12",175
+"494",747,13,21,"Independent","Brigham Young","BYU",26,50,"@",14,26,"NMSU","New Mexico State","Western Athletic",109
+"23",748,13,27,"Conference USA","Central Florida","UCF",26,49,"",24,26,"UAB","Alabama-Birmingham","Conference USA",5
+"475",749,13,36,"Mountain West","Colorado State","COLS",26,24,"",20,26,"NM","New Mexico","Mountain West",108
+"353",750,13,37,"Big East","Connecticut","UCONN",26,23,"@",20,19,"LOU","Louisville","Big East",84
+"218",751,13,46,"Southeastern","Florida","UF",6,37,"@",26,10,"FSU","Florida State","Atlantic Coast",50
+"5",752,13,52,"Mountain West","Fresno State","FRES",26,48,"",15,26,"AF","Air Force","Mountain West",1
+"234",753,13,55,"Southeastern","Georgia","UGA",3,42,"",10,26,"GT","Georgia Tech","Atlantic Coast",58
+"470",754,13,60,"Mountain West","Hawaii","HAW",26,48,"",10,26,"UNLV","Nevada-Las Vegas","Mountain West",106
+"736",755,13,61,"Conference USA","Houston","HOU",26,40,"",17,26,"TULA","Tulane","Conference USA",181
+"594",756,13,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,52,"",30,26,"SOBAMA","South Alabama","Sun Belt",147
+"215",757,13,83,"Sun Belt","Louisiana-Monroe","LA-M",26,23,"@",17,26,"FIU","Florida International","Sun Belt",49
+"637",758,13,90,"Conference USA","Memphis","MEM",26,42,"",24,26,"SO MISS","Southern Mississippi","Conference USA",159
+"176",759,13,91,"Atlantic Coast","Miami FL","MIA",26,52,"@",45,26,"DUKE","Duke","Atlantic Coast",39
+"420",760,13,94,"Big Ten","Michigan State","MSU",26,26,"@",10,26,"MINN","Minnesota","Big Ten",96
+"725",761,13,95,"Sun Belt","Middle Tennessee State","MTSU",26,24,"",21,26,"TROY","Troy","Sun Belt",180
+"432",762,13,97,"Southeastern","Mississippi","OLE",26,41,"",24,25,"MISS ST","Mississippi State","Southeastern",98
+"363",763,13,112,"Atlantic Coast","North Carolina","UNC",26,45,"",38,26,"MARY","Maryland","Atlantic Coast",87
+"86",764,13,114,"Atlantic Coast","North Carolina State","NCST",26,27,"",10,26,"BC","Boston College","Atlantic Coast",19
+"271",765,13,122,"Big Ten","Northwestern","NU",26,50,"",14,26,"IL","Illinois","Big Ten",65
+"626",766,13,125,"Independent","Notre Dame","ND",1,22,"@",13,26,"USC","Southern California","Pac-12",156
+"404",767,13,127,"Big Ten","Ohio State","OSU",4,26,"",21,20,"MICH","Michigan","Big Ten",93
+"541",768,13,128,"Big 12","Oklahoma","OU",14,51,"",48,22,"OKST","Oklahoma State","Big 12",129
+"545",769,13,130,"Pac-12","Oregon","ORE",5,48,"@",24,16,"ORST","Oregon State","Pac-12",131
+"826",770,13,132,"Big Ten","Penn State","PENN",26,24,"",21,26,"WIS","Wisconsin","Big Ten",202
+"578",771,13,133,"Big East","Pittsburgh","PITT",26,27,"",6,21,"RUT","Rutgers","Big East",140
+"281",772,13,136,"Big Ten","Purdue","PUR",26,56,"",35,26,"IND","Indiana","Big Ten",67
+"704",773,13,138,"Conference USA","Rice","RICE",26,33,"@",24,26,"UT-EP","Texas-El Paso","Conference USA",176
+"840",774,13,144,"Mountain West","San Diego State","SDSU",26,42,"@",28,26,"WYO","Wyoming","Mountain West",204
+"342",775,13,145,"Western Athletic","San Jose State","SJSU",26,52,"",43,26,"LTU","Louisiana Tech","Western Athletic",81
+"141",776,13,148,"Southeastern","South Carolina","SC",13,27,"@",17,12,"CLEM","Clemson","Atlantic Coast",33
+"742",777,13,158,"Conference USA","Southern Methodist","SMU",26,35,"",27,26,"TULSA","Tulsa","Conference USA",182
+"747",778,13,161,"Pac-12","Stanford","STAN",11,35,"@",17,15,"UCLA","UCLA","Pac-12",183
+"326",779,13,166,"Southeastern","Tennessee","TEN",26,37,"",17,26,"UK","Kentucky","Southeastern",77
+"439",780,13,170,"Southeastern","Texas A&M","TAMU",9,59,"",29,26,"MIZZ","Missouri","Southeastern",99
+"693",781,13,177,"Western Athletic","Texas-San Antonio","UTSA",26,38,"",31,26,"TEXST","Texas State","Western Athletic",174
+"267",782,13,185,"Western Athletic","Utah State","UTST",25,45,"",9,26,"ID","Idaho","Western Athletic",63
+"780",783,13,186,"Southeastern","Vanderbilt","VAN",26,55,"@",21,26,"WAKE","Wake Forest","Atlantic Coast",192
+"766",784,13,190,"Atlantic Coast","Virginia Tech","VT",26,17,"",14,26,"UVA","Virginia","Atlantic Coast",188
+"511",785,13,199,"Sun Belt","Western Kentucky","WKU",26,25,"",24,26,"NTEX","North Texas","Sun Belt",117
+"581",786,14,84,"Big East","Louisville","LOU",26,20,"@",17,26,"RUT","Rutgers","Big East",140
+"322",787,14,120,"Mid-American","Northern Illinois","NIU",19,44,"",37,18,"KENT","Kent State","Mid-American",76
+"745",788,14,161,"Pac-12","Stanford","STAN",8,27,"",24,17,"UCLA","UCLA","Pac-12",183
+"228",789,14,3,"Southeastern","Alabama","BAMA",2,32,"",28,3,"UGA","Georgia","Southeastern",55
+"417",790,14,11,"Sun Belt","Arkansas State","ARKST",26,45,"",0,26,"MTSU","Middle Tennessee State","Sun Belt",95
+"539",791,14,16,"Big 12","Baylor","BAY",26,41,"",34,24,"OKST","Oklahoma State","Big 12",129
+"458",792,14,18,"Mountain West","Boise State","BST",25,27,"@",21,26,"NEV","Nevada","Mountain West",105
+"168",793,14,31,"Big East","Cincinnati","CIN",26,34,"@",17,26,"UCONN","Connecticut","Big East",37
+"237",794,14,50,"Atlantic Coast","Florida State","FSU",13,21,"",15,26,"GT","Georgia Tech","Atlantic Coast",58
+"603",795,14,60,"Mountain West","Hawaii","HAW",26,23,"",7,26,"SOBAMA","South Alabama","Sun Belt",147
+"678",796,14,75,"Big 12","Kansas State","KSU",7,42,"",24,23,"TEX","Texas","Big 12",169
+"205",797,14,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,35,"@",21,26,"FAU","Florida Atlantic","Sun Belt",48
+"684",798,14,128,"Big 12","Oklahoma","OU",12,24,"@",17,26,"TCU","Texas Christian","Big 12",172
+"497",799,14,131,"Pac-12","Oregon State","ORST",16,77,"",3,26,"NICHST","Nicholls State","FCS",110
+"614",800,14,133,"Big East","Pittsburgh","PITT",26,27,"@",3,26,"SFU","South Florida","Big East",152
+"488",801,14,174,"Western Athletic","Texas State","TEXST",26,66,"",28,26,"NMSU","New Mexico State","Western Athletic",109
+"126",802,14,182,"Conference USA","Tulsa","TULSA",26,33,"",27,26,"UCF","Central Florida","Conference USA",27
+"308",803,14,196,"Big 12","West Virginia","WV",26,59,"",10,26,"KU","Kansas","Big 12",74
+"454",804,14,202,"Big Ten","Wisconsin","WIS",26,70,"",31,14,"NEB","Nebraska","Big Ten",104
+"61",805,15,103,"Independent","Navy","NAVY",26,17,"",13,26,"ARMY","Army","Independent",12
+"462",806,16,8,"Pac-12","Arizona","ARI",26,49,"",48,26,"NEV","Nevada","Mountain West",105
+"720",807,16,185,"Western Athletic","Utah State","UTST",18,41,"",15,26,"TOL","Toledo","Mid-American",178
+"588",808,17,21,"Independent","Brigham Young","BYU",26,23,"@",6,26,"SDSU","San Diego State","Mountain West",144
+"76",809,17,27,"Conference USA","Central Florida","UCF",26,38,"",17,26,"BALL","Ball State","Mid-American",15
+"788",810,17,18,"Mountain West","Boise State","BST",20,28,"",26,26,"WASH","Washington","Pac-12",193
+"179",811,17,82,"Sun Belt","Louisiana-Lafayette","LA-L",26,43,"",34,26,"ECU","East Carolina","Conference USA",40
+"222",812,17,158,"Conference USA","Southern Methodist","SMU",26,43,"",10,26,"FRES","Fresno State","Mountain West",52
+"814",813,18,28,"Mid-American","Central Michigan","CMU",26,24,"",21,26,"WKU","Western Kentucky","Sun Belt",199
+"743",814,18,16,"Big 12","Baylor","BAY",26,49,"",26,17,"UCLA","UCLA","Pac-12",183
+"172",815,18,31,"Big East","Cincinnati","CIN",26,48,"",34,26,"DUKE","Duke","Atlantic Coast",39
+"97",816,18,145,"Western Athletic","San Jose State","SJSU",24,29,"",20,26,"BG","Bowling Green State","Mid-American",20
+"350",817,18,126,"Mid-American","Ohio","OHIO",26,45,"",14,26,"LA-M","Louisiana-Monroe","Sun Belt",83
+"424",818,18,175,"Big 12","Texas Tech","TTU",26,34,"",31,26,"MINN","Minnesota","Big Ten",96
+"580",819,18,190,"Atlantic Coast","Virginia Tech","VT",26,13,"",10,26,"RUT","Rutgers","Big East",140
+"450",820,18,9,"Pac-12","Arizona State","ASU",26,62,"",28,26,"NAVY","Navy","Independent",103
+"688",821,18,94,"Big Ten","Michigan State","MSU",26,17,"",16,26,"TCU","Texas Christian","Big 12",172
+"3",822,18,138,"Conference USA","Rice","RICE",26,33,"",14,26,"AF","Air Force","Mountain West",1
+"805",823,18,164,"Big East","Syracuse","SYR",26,38,"",14,26,"WV","West Virginia","Big 12",196
+"548",824,18,169,"Big 12","Texas","TEX",26,31,"",27,15,"ORST","Oregon State","Pac-12",131
+"337",825,19,33,"Atlantic Coast","Clemson","CLEM",14,25,"",24,9,"LSU","Louisiana State","Southeastern",80
+"625",826,19,58,"Atlantic Coast","Georgia Tech","GT",26,21,"",7,26,"USC","Southern California","Pac-12",156
+"298",827,19,182,"Conference USA","Tulsa","TULSA",26,31,"",17,26,"ISU","Iowa State","Big 12",70
+"507",828,19,186,"Southeastern","Vanderbilt","VAN",26,38,"",24,26,"NCST","North Carolina State","Atlantic Coast",114
+"521",829,20,50,"Atlantic Coast","Florida State","FSU",13,31,"",10,16,"NIU","Northern Illinois","Mid-American",120
+"453",830,20,55,"Southeastern","Georgia","UGA",6,45,"",31,23,"NEB","Nebraska","Big Ten",104
+"435",831,20,122,"Big Ten","Northwestern","NU",21,34,"",20,26,"MISS ST","Mississippi State","Southeastern",98
+"563",832,20,129,"Big 12","Oklahoma State","OKST",26,58,"",14,26,"PUR","Purdue","Big Ten",136
+"405",833,20,148,"Southeastern","South Carolina","SC",11,33,"",28,19,"MICH","Michigan","Big Ten",93
+"829",834,20,161,"Pac-12","Stanford","STAN",8,20,"",14,26,"WIS","Wisconsin","Big Ten",202
+"198",835,20,84,"Big East","Louisville","LOU",22,33,"",23,4,"UF","Florida","Southeastern",46
+"320",836,20,130,"Pac-12","Oregon","ORE",5,35,"",17,7,"KSU","Kansas State","Big 12",75
+"537",837,20,170,"Southeastern","Texas A&M","TAMU",10,41,"",13,12,"OU","Oklahoma","Big 12",128
+"553",838,20,97,"Southeastern","Mississippi","OLE",26,38,"",17,26,"PITT","Pittsburgh","Big East",133
+"321",839,20,11,"Sun Belt","Arkansas State","ARKST",26,17,"",13,25,"KENT","Kent State","Mid-American",76
+"531",840,20,3,"Southeastern","Alabama","BAMA",2,42,"",14,1,"ND","Notre Dame","Independent",125
