@@ -10,15 +10,12 @@ Hopeful ambitions of displaying college football 2012 schedule in networks with 
 
 ### Final Product
 
-Please follow the instructions of the file *EntireNetwork.R* to view just that, the entire 2012 season.
+Please follow the instructions of the file *Networks.R* to view just that, the entire 2012 season. Additionally, follow the instructions of *Network_runthrough.Rmd* for additional visualizations.
 
 ### Coming Soon (3/21/15)
 
-Subsetted networks of the following:
+If I ever find the time, we'd like to create the following:
 
-    * Conferences
-    * Non-Conference games
-    * Conference games
     * Shiny app for many other options, such as team's road to their respective bowl game (big maybe)
 
 #### File information and their respective CSVs

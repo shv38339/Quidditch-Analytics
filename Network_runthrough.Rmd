@@ -48,12 +48,12 @@ schedNodes <- tbl_df(data.frame(name, group))
 ```
 
 The following command will display a simple network, as the function suggests. Please note, it's quite messy. 
-```{r Entire Simple Network, eval = FALSE}
+```{r Entire Simple Network}
 simpleNetwork(Data = schedLinks, Source = "Source", Target = "Target")
 ```
 
 The following command contains a few more options to spice up the network. Once again, it's a bit messy and may slow your computer down. 
-```{r Entire Force Network, eval = FALSE}
+```{r Entire Force Network}
 forceNetwork(Links = schedLinks, Nodes = schedNodes, 
              Source = "Source", Target = "Target", 
              Value = "value", NodeID = "name", Group = "group", 
@@ -83,7 +83,7 @@ forceNetwork(Links = ncfLinks, Nodes = schedNodes,
 ### Conference Network
 
 Conference games typically occur after week 4 until week 15, where the final regular season game is played between Army and Navy. That is displayed below. You'll notice the clusters of in-conference play but you'll also notice the few games that are not played within conference.
-```{r Conference Network, eval = TRUE, results = 'asis'}
+```{r Conference Network}
 # last game before bowl games is Army vs Navy, which is lone game in Week 15
 cf <- cleansched7 %>% filter(week > 4 & week <= 15) %>% select(id, ptdiff)
 
@@ -105,7 +105,7 @@ If you don't know what you're looking for, it's a bit tricky. The salmon/pink co
 ### Display of conferences and their respective teams
 
 Here we have transformed the data frame **teamchr** into its own network. 
-```{r}
+```{r Within Conference Network}
 # re-factored data frame to display names
 confNodes <- tbl_df(data.frame(name = as.factor(teamchr$name), 
                                group = as.factor(teamchr$conference)))
