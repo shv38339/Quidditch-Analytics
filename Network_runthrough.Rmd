@@ -1,0 +1,117 @@
+---
+title: "Additional Networks"
+author: "Steele H. Valenzuela & Jonathan Chiang"
+date: "March 24, 2015"
+output: html_document
+---
+
+#### Introduction
+
+Echoing the introduction of the *README.md*, this project is the collection of all FBS college football games in the 2012 season. I am interested in breaking from the norm of the traditional boxscore and displaying schedules in a manner of simple and complex networks.
+
+Although the networks are more on the complex and cluttered side of the aisle, what we have learned from this project is data scraping, cleaning, and manipulating into a 'workable' format in order to display data in a network. 
+
+#### Libraries and Data
+
+For a quick run through of this project, just follow the directions. The libraries we used are the `dplyr` and `networkD3` packages. If you have never loaded them in your library, please install them first.
+```{r, message = FALSE}
+library(dplyr)
+library(networkD3)
+```
+
+Next, download these files from the CSVs folder (in my repo) and load them into your `R` working directory with the following commands. 
+```{r}
+cleansched7 <- tbl_df(read.csv("cleansched7.csv", header = T)[-1])
+teamchr <- tbl_df(read.csv("teamchr.csv", header = TRUE)[-1])
+```
+
+In order to familiarize yourself with the tables/data frames, simply use the `slice` function from the `dplyr` package or simply type the name of the data frame into the command line and press enter. The first 10 rows of each table/data frame will display various information. The data frame **teamchr** will display the team name, abbreviation, and conference.
+
+The first 25 rows of the data frame **cleansched7** display the pre-season top 25 rankings while the last 25 rows display the post-season top 25 rankings. Each row represents a team, their information such as conference and abbreviation, followed by the outcome of their game during that week. The next line should follow with their opponent and similar information.
+
+#### Network of Entire Season
+
+First, follow these commands to prepare the data for the networks. You may run this entire chunk and *skip* to the next chunk in order to view the said network as this piece is a bit *technical*
+```{r}
+odd_index <- seq(27, 1705, 2) # winner/source
+even_index <- seq(26, 1704, 2) # loser/target
+
+Source <- cleansched7$id[odd_index] - 1 # Source and Target must start at zero. A bit confusing.
+Target <- cleansched7$id[even_index] - 1 # Source and Target must start at zero. A bit confusing.
+value <- cleansched7$ptdiff[odd_index] # winner's pt differential for how wide the links are
+
+name <- as.factor(teamchr$name) # names need to be factored
+group <- as.integer(as.factor(teamchr$conference)) # groups must be integers
+
+schedLinks <- tbl_df(data.frame(Source, Target, value))
+schedNodes <- tbl_df(data.frame(name, group))
+```
+
+The following command will display a simple network, as the function suggests. Please note, it's quite messy. 
+```{r Entire Simple Network, eval = FALSE}
+simpleNetwork(Data = schedLinks, Source = "Source", Target = "Target")
+```
+
+The following command contains a few more options to spice up the network. Once again, it's a bit messy and may slow your computer down. 
+```{r Entire Force Network, eval = FALSE}
+forceNetwork(Links = schedLinks, Nodes = schedNodes, 
+             Source = "Source", Target = "Target", 
+             Value = "value", NodeID = "name", Group = "group", 
+             fontsize = 15, opacity = .8)
+```
+
+
+#### Non-Conference Network
+
+A majority of the non-conference games are played within the first four weeks of the season. I have subsetted the data to follow suit. You will see floating nodes that are not connected. That simply means that they are scheduled for later in the season. 
+```{r}
+ncf <- cleansched7 %>% filter(week <= 4 & week != 0) %>% select(id, ptdiff)
+
+ncf_even_index <- seq(2, 552, 2) # winner/Source
+ncf_odd_index <- seq(1, 551, 2) # loser/Target
+
+ncfSource <- ncf$id[ncf_even_index] - 1; ncfTarget <- ncf$id[ncf_odd_index] - 1 
+ncfValue <- ncf$ptdiff[ncf_even_index]
+ncfLinks <- tbl_df(data.frame(ncfSource, ncfTarget, ncfValue))
+
+forceNetwork(Links = ncfLinks, Nodes = schedNodes, 
+             Source = "ncfSource", Target = "ncfTarget", Value = "ncfValue", 
+             NodeID = "name", Group = "group", 
+             fontsize = 15, opacity = 1)
+```
+
+### Conference Network
+
+Conference games typically occur after week 4 until week 15, where the final regular season game is played between Army and Navy. That is displayed below. You'll notice the clusters of in-conference play but you'll also notice the few games that are not played within conference.
+```{r Conference Network, eval = TRUE, results = 'asis'}
+# last game before bowl games is Army vs Navy, which is lone game in Week 15
+cf <- cleansched7 %>% filter(week > 4 & week <= 15) %>% select(id, ptdiff)
+
+cf_even_index <- seq(2, 1058, 2) # winner/Source
+cf_odd_index <- seq(1, 1057, 2) # loser/Target
+
+cfSource <- cf$id[cf_even_index] - 1; cfTarget <- cf$id[cf_odd_index] - 1
+cfValue <- cf$ptdiff[cf_even_index]
+cfLinks <- tbl_df(data.frame(cfSource, cfTarget, cfValue))
+
+forceNetwork(Links = cfLinks, Nodes = schedNodes, 
+             Source = "cfSource", Target = "cfTarget", Value = "cfValue", 
+             NodeID = "name", Group = "group", 
+             fontsize = 15, opacity = 1, charge = -100)
+```
+
+If you don't know what you're looking for, it's a bit tricky. The salmon/pink colored nodes of **Army**, **Navy**, **Brigham Young**, and **Notre Dame** are quite interesting as they are independent of any conference and schedule whoever they want. Try to find **Notre Dame** and their list of opponents to see how many networks they are connected to.
+
+### Display of conferences and their respective teams
+
+Here we have transformed the data frame **teamchr** into its own network. 
+```{r}
+# re-factored data frame to display names
+confNodes <- tbl_df(data.frame(name = as.factor(teamchr$name), 
+                               group = as.factor(teamchr$conference)))
+
+# charge set to -100 to instead of default -200. Easier to fit all teams in one frame
+simpleNetwork(Data = confNodes, Source = "name", Target = "group", 
+              fontSize = 15, opacity = 1, charge = -100)
+```
+You will notice the many teams that make up the **FCS** conference as well as a few of the smaller ones, such as the **Independents** and **Division II** opponents. 
